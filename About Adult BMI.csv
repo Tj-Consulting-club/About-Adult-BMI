@@ -1,0 +1,1360 @@
+﻿ Employee ID , Year , Employee's Location , Age , Height (cm) , Weight (lbs) , Gender , Annual Expenditure in HealthCare ,# of Children, Smoker 
+ 20KKw ,2020, Arkansas Plant , 38 , 173.90 , 266.00 , Female ," $49,335.49 ",2, Yes 
+ 21A6A ,2020, Arkansas Plant , 35 , 166.80 , 198.00 , Male ," $4,449.69 ",1, No 
+ 21kVL ,2020, Arkansas Plant , 49 , 179.00 , 269.00 , Male ," $11,921.31 ",3, No 
+ 21T4T ,2020, East Coast - All Locations , 32 , 186.80 , 254.00 , Female ," $3,840.28 ",0, No 
+ 21Tfh ,2020, Miami Sales Office , 26 , 174.10 , 230.00 , Male , $836.99 ,0, No 
+ 2268h ,2020, East Coast - All Locations , 27 , 164.10 , 188.00 , Male ," $1,287.64 ",0, No 
+ 22ksG ,2020, Miami Sales Office , 41 , 189.20 , 243.00 , Male ," $26,748.13 ",1, Yes 
+ 23DMN ,2020, Arkansas Plant , 40 , 149.70 , 204.00 , Female ," $12,335.75 ",2, No 
+ 23EQA ,2020, California - All Locations , 24 , 175.80 , 244.00 , Female ," $3,116.84 ",0, No 
+ 23L03 ,2020, East Coast - All Locations , 34 , 173.80 , 240.00 , Male ," $8,084.84 ",1, Yes 
+ 23VYV ,2020, East Coast - All Locations , 35 , 177.00 , 178.00 , Female ," $2,381.31 ",2, No 
+ 240zv ,2020, California - All Locations , 37 , 172.20 , 199.00 , Male ," $25,371.77 ",1, Yes 
+ 249SS ,2020, California - All Locations , 25 , 164.30 , 155.00 , Male ," $1,842.59 ",0, No 
+ 24s2n ,2020, Arkansas Plant , 41 , 155.20 , 166.00 , Male ," $8,730.28 ",1, No 
+ 24YJ9 ,2020, East Coast - All Locations , 44 , 154.10 , 124.00 , Male ," $6,428.78 ",1, No 
+ 25AkT ,2020, East Coast - All Locations , 35 , 168.00 , 143.00 , Female ," $2,835.57 ",1, No 
+ 25La4 ,2020, Miami Sales Office , 30 , 183.30 , 237.00 , Female ," $2,999.95 ",0, No 
+ 25s0f ,2020, Arkansas Plant , 43 , 179.60 , 169.00 , Male ," $3,975.10 ",1, No 
+ 25Ukz ,2020, East Coast - All Locations , 44 , 158.30 , 208.00 , Female ," $8,896.60 ",0, No 
+ 25Z38 ,2020, Miami Sales Office , 26 , 164.10 , 177.00 , Male ," $1,646.27 ",1, No 
+ 26bsY ,2020, Miami Sales Office , 50 , 167.20 , 210.00 , Female ," $12,688.22 ",0, No 
+ 26fYW ,2020, East Coast - All Locations , 40 , 183.30 , 251.00 , Male ," $4,831.70 ",1, No 
+ 26jDD ,2020, East Coast - All Locations , 31 , 186.10 , 247.00 , Female ," $4,793.70 ",0, No 
+ 26Krz ,2020, Arkansas Plant , 48 , 175.00 , 190.00 , Female ," $8,596.77 ",1, No 
+ 26r2D ,2020, Miami Sales Office , 25 , 171.30 , 195.00 , Male ," $1,004.03 ",0, No 
+ 280Xk ,2020, Arkansas Plant , 33 , 168.20 , 100.00 , Male ," $2,638.63 ",1, No 
+ 281gj ,2020, East Coast - All Locations , 35 , 164.60 , 187.00 , Male ," $9,843.27 ",1, No 
+ 285TW ,2020, California - All Locations , 23 , 163.60 , 162.00 , Male ," $8,461.69 ",1, No 
+ 28ayX ,2020, East Coast - All Locations , 45 , 190.10 , 218.00 , Male ," $19,907.85 ",2, Yes 
+ 28VRV ,2020, California - All Locations , 27 , 169.70 , 211.00 , Male ," $27,963.06 ",0, No 
+ 29H4f ,2020, East Coast - All Locations , 37 , 170.90 , 179.00 , Female ," $3,580.59 ",2, No 
+ A06Xy ,2020, East Coast - All Locations , 29 , 178.00 , 184.00 , Male ," $2,327.81 ",2, No 
+ A0PQc ,2020, Arkansas Plant , 37 , 160.60 , 165.00 , Male ," $2,833.92 ",2, No 
+ A0VE9 ,2020, Arkansas Plant , 38 , 191.40 , 241.00 , Female ," $17,334.49 ",1, Yes 
+ A1PPm ,2020, California - All Locations , 27 , 163.80 , 141.00 , Female ," $9,276.84 ",0, No 
+ A25W7 ,2020, Arkansas Plant , 37 , 168.00 , 172.00 , Male ," $2,499.92 ",0, No 
+ A2E8V ,2020, Miami Sales Office , 24 , 164.70 , 123.00 , Male , $680.42 ,0, No 
+ A3AUG ,2020, Arkansas Plant , 40 , 165.40 , 282.00 , Male ," $8,039.66 ",1, No 
+ A3d8C ,2020, East Coast - All Locations , 29 , 157.80 , 174.00 , Female ," $2,774.56 ",0, No 
+ A3Kr4 ,2020, East Coast - All Locations , 25 , 171.00 , 195.00 , Male ," $11,965.20 ",0, Yes 
+ A3M8M ,2020, Miami Sales Office , 25 , 169.90 , 228.00 , Male ," $17,384.85 ",2, Yes 
+ A42nf ,2020, East Coast - All Locations , 46 , 167.40 , 151.00 , Male ," $5,319.31 ",4, No 
+ A4c81 ,2020, California - All Locations , 27 , 175.00 , 203.00 , Male ," $11,929.77 ",1, No 
+ A5H0k ,2020, Arkansas Plant , 29 , 168.60 , 194.00 , Female ," $2,697.28 ",0, No 
+ A63kY ,2020, Arkansas Plant , 38 , 155.00 , 135.00 , Male ," $13,340.31 ",0, No 
+ A6k2u ,2020, East Coast - All Locations , 44 , 159.90 , 167.00 , Female ," $5,828.71 ",1, No 
+ A6TYy ,2020, Arkansas Plant , 45 , 170.10 , 229.00 , Male ," $10,545.00 ",0, No 
+ A73Rb ,2020, Miami Sales Office , 26 , 165.40 , 120.00 , Female ," $10,821.00 ",2, No 
+ A74Uc ,2020, California - All Locations , 41 , 186.80 , 219.00 , Female ," $8,514.92 ",1, Yes 
+ A8K0C ,2020, Miami Sales Office , 28 , 169.90 , 177.00 , Male ," $2,667.30 ",2, No 
+ A95Km ,2020, Miami Sales Office , 25 , 173.60 , 166.00 , Male , $878.39 ,0, No 
+ A995s ,2020, Miami Sales Office , 22 , 160.60 , 174.00 , Male ," $1,607.53 ",0, No 
+ A9cE4 ,2020, Arkansas Plant , 41 , 157.20 , 153.00 , Female ," $3,354.59 ",0, No 
+ A9FFb ,2020, Arkansas Plant , 46 , 183.50 , 213.00 , Male ," $8,130.42 ",2, No 
+ Aa2HE ,2020, Miami Sales Office , 30 , 191.00 , 228.00 , Male ," $9,215.70 ",0, Yes 
+ Aa2jY ,2020, East Coast - All Locations , 33 , 174.00 , 198.00 , Male ," $2,467.36 ",2, No 
+ Aa8Nn ,2020, Arkansas Plant , 36 , 163.00 , 159.00 , Male ," $4,116.90 ",4, No 
+ Aa9sC ,2020, California - All Locations , 22 , 158.50 , 180.00 , Female ," $2,098.87 ",0, No 
+ AaAv2 ,2020, Arkansas Plant , 31 , 174.00 , 237.00 , Male ," $25,388.36 ",2, No 
+ AaHYb ,2020, Arkansas Plant , 42 , 157.10 , 138.00 , Female ," $6,879.35 ",2, No 
+ AaM1j ,2020, East Coast - All Locations , 28 , 162.20 , 172.00 , Male ," $11,312.17 ",0, No 
+ AaWag ,2020, Arkansas Plant , 51 , 167.50 , 125.00 , Male ," $6,858.24 ",0, No 
+ AaYPQ ,2020, Arkansas Plant , 44 , 172.70 , 250.00 , Male ," $10,670.25 ",2, No 
+ AaZta ,2020, Arkansas Plant , 31 , 176.80 , 264.00 , Female ," $4,969.23 ",0, No 
+ Ab0gk ,2020, Miami Sales Office , 25 , 140.70 , 402.00 , Male ," $1,540.52 ",0, No 
+ Abw2y ,2020, East Coast - All Locations , 37 , 158.80 , 157.00 , Female ," $3,657.81 ",0, No 
+ Ac22T ,2020, Arkansas Plant , 43 , 184.20 , 252.00 , Male ," $10,958.70 ",1, No 
+ Ac2pH ,2020, East Coast - All Locations , 34 , 159.30 , 172.00 , Female ," $6,917.20 ",1, No 
+ Ac2YX ,2020, East Coast - All Locations , 27 , 170.70 , 229.00 , Female ," $3,658.61 ",1, No 
+ Ac665 ,2020, East Coast - All Locations , 46 , 156.40 , 148.00 , Male ," $5,006.71 ",1, No 
+ AcgT0 ,2020, Miami Sales Office , 26 , 174.90 , 177.00 , Male , $552.77 ,0, No 
+ AcjBe ,2020, East Coast - All Locations , 33 , 176.30 , 216.00 , Male ," $23,938.23 ",1, Yes 
+ AcTSh ,2020, East Coast - All Locations , 57 , 169.10 , 238.00 , Male ," $12,844.52 ",0, No 
+ AcU6e ,2020, Arkansas Plant , 25 , 172.90 , 237.00 , Male ," $29,051.44 ",1, Yes 
+ AcuuY ,2020, Arkansas Plant , 39 , 166.30 , 188.00 , Female ," $22,597.20 ",1, No 
+ AddJW ,2020, Miami Sales Office , 32 , 162.80 , 184.00 , Male ," $3,246.07 ",1, No 
+ AdfQ9 ,2020, East Coast - All Locations , 54 , 182.10 , 254.00 , Male ," $10,601.48 ",0, No 
+ AdKMK ,2020, Arkansas Plant , 42 , 167.90 , 147.00 , Male ," $5,960.05 ",1, No 
+ AdvXM ,2020, California - All Locations , 23 , 173.00 , 160.00 , Male ," $1,196.70 ",0, No 
+ Ae1Y2 ,2020, Arkansas Plant , 41 , 166.50 , 204.00 , Female ," $8,594.09 ",0, No 
+ Ae87e ,2020, California - All Locations , 34 , 165.40 , 146.00 , Male ," $12,396.64 ",2, No 
+ Ae8g4 ,2020, East Coast - All Locations , 31 , 182.60 , 172.00 , Female ," $2,071.93 ",3, No 
+ AeNz6 ,2020, East Coast - All Locations , 33 , 172.40 , 162.00 , Male ," $5,990.88 ",0, Yes 
+ Aeprn ,2020, East Coast - All Locations , 35 , 165.60 , 222.00 , Male ," $4,000.07 ",1, No 
+ Aes6X ,2020, East Coast - All Locations , 21 , 155.80 , 153.00 , Female , $912.00 ,0, No 
+ AeVKc ,2020, Miami Sales Office , 43 , 151.70 , 177.00 , Female ," $10,540.26 ",1, No 
+ AexpY ,2020, East Coast - All Locations , 42 , 177.90 , 317.00 , Male ," $10,098.72 ",0, No 
+ Af2pv ,2020, East Coast - All Locations , 37 , 186.60 , 185.00 , Male ," $6,356.54 ",0, No 
+ Af5HX ,2020, California - All Locations , 29 , 155.60 , 218.00 , Male ," $14,811.64 ",2, No 
+ Af6fA ,2020, East Coast - All Locations , 33 , 154.60 , 154.00 , Male ," $2,145.07 ",2, No 
+ Af76W ,2020, Miami Sales Office , 19 , 175.60 , 191.00 , Male , $525.07 ,0, No 
+ AfBYv ,2020, East Coast - All Locations , 27 , 167.90 , 262.00 , Female ," $3,027.20 ",0, No 
+ AfFs0 ,2020, East Coast - All Locations , 28 , 164.20 , 165.00 , Male ," $1,308.54 ",2, No 
+ AfGL4 ,2020, Arkansas Plant , 35 , 179.30 , 214.00 , Male ," $4,936.14 ",0, No 
+ Afgs1 ,2020, East Coast - All Locations , 31 , 172.40 , 235.00 , Male ," $5,887.24 ",1, No 
+ AfRQF ,2020, Miami Sales Office , 27 , 183.10 , 232.00 , Female ," $13,168.99 ",1, No 
+ AgJr9 ,2020, Miami Sales Office , 26 , 181.70 , 169.00 , Male ," $1,568.21 ",1, No 
+ AgNsK ,2020, Arkansas Plant , 52 , 173.60 , 224.00 , Male ," $9,510.63 ",0, No 
+ AgXT2 ,2020, Arkansas Plant , 42 , 158.40 , 159.00 , Male ," $5,462.89 ",2, No 
+ AgYzm ,2020, East Coast - All Locations , 43 , 185.10 , 239.00 , Male ," $32,246.51 ",1, Yes 
+ Agz7E ,2020, East Coast - All Locations , 52 , 177.60 , 198.00 , Female ," $9,120.77 ",0, No 
+ Ahcj1 ,2020, East Coast - All Locations , 27 , 163.00 , 221.00 , Male ," $2,800.96 ",1, No 
+ AheSc ,2020, East Coast - All Locations , 29 , 167.70 , 155.00 , Female ," $2,413.49 ",0, No 
+ AhF5x ,2020, East Coast - All Locations , 37 , 157.60 , 201.00 , Female ," $13,459.63 ",1, No 
+ AjL2Y ,2020, Miami Sales Office , 20 , 165.70 , 122.00 , Female , $911.83 ,0, No 
+ AjL5v ,2020, Arkansas Plant , 36 , 158.80 , 138.00 , Female ," $2,355.36 ",1, No 
+ Ak4bY ,2020, Arkansas Plant , 29 , 170.60 , 191.00 , Female ," $1,342.68 ",0, No 
+ Ak4WV ,2020, East Coast - All Locations , 46 , 169.50 , 250.00 , Female ," $10,870.10 ",1, No 
+ AkQUV ,2020, California - All Locations , 49 , 156.60 , 184.00 , Male ," $12,251.84 ",0, No 
+ AkY42 ,2020, East Coast - All Locations , 31 , 162.60 , 138.00 , Female ," $4,961.11 ",2, Yes 
+ AQ49C ,2020, East Coast - All Locations , 33 , 147.80 , 133.00 , Female ," $2,716.98 ",2, No 
+ AS1Y ,2020, Arkansas Plant , 37 , 164.60 , 127.00 , Male ," $2,469.33 ",2, No 
+ AT17V ,2020, Arkansas Plant , 43 , 179.10 , 247.00 , Female ," $14,261.17 ",1, Yes 
+ AT21A ,2020, Arkansas Plant , 41 , 172.50 , 152.00 , Male ," $4,280.34 ",4, No 
+ AU38H ,2020, East Coast - All Locations , 30 , 176.00 , 269.00 , Female ," $4,483.79 ",2, No 
+ AU99R ,2020, East Coast - All Locations , 21 , 177.00 , 206.00 , Female ," $7,207.85 ",0, No 
+ AV93N ,2020, East Coast - All Locations , 35 , 175.10 , 163.00 , Female ," $9,309.63 ",1, Yes 
+ AX18G ,2020, East Coast - All Locations , 25 , 172.70 , 160.00 , Female ," $1,489.20 ",1, No 
+ AX44K ,2020, Arkansas Plant , 39 , 164.10 , 162.00 , Male ," $3,876.27 ",0, No 
+ AX7C ,2020, Arkansas Plant , 25 , 158.70 , 171.00 , Male ," $2,107.80 ",2, No 
+ AX81F ,2020, East Coast - All Locations , 44 , 179.50 , 217.00 , Female ," $41,476.93 ",1, No 
+ AY10P ,2020, East Coast - All Locations , 44 , 161.50 , 188.00 , Female ," $11,086.91 ",1, No 
+ AY35B ,2020, East Coast - All Locations , 34 , 167.60 , 173.00 , Male ," $1,592.88 ",0, No 
+ AZ41K ,2020, East Coast - All Locations , 33 , 189.40 , 241.00 , Male ," $17,180.08 ",1, Yes 
+ AZ81J ,2020, Arkansas Plant , 36 , 154.50 , 179.00 , Female ," $4,387.54 ",1, No 
+ AZ94K ,2020, Miami Sales Office , 41 , 181.60 , 257.00 , Male ," $18,296.50 ",1, Yes 
+ AzAs3 ,2020, Arkansas Plant , 32 , 166.40 , 162.00 , Female ," $4,746.48 ",4, No 
+ Azg7a ,2020, Arkansas Plant , 44 , 178.60 , 290.00 , Female ," $8,612.17 ",1, No 
+ AzJPY ,2020, East Coast - All Locations , 43 , 150.80 , 145.00 , Male ," $5,410.47 ",1, No 
+ Azm13 ,2020, Arkansas Plant , 31 , 160.70 , 231.00 , Female ," $7,080.00 ",1, No 
+ AzU4b ,2020, Arkansas Plant , 37 , 171.20 , 227.00 , Female ," $19,964.73 ",1, Yes 
+ B1cQY ,2020, East Coast - All Locations , 31 , 181.10 , 243.00 , Female ," $8,556.26 ",0, No 
+ B2rxS ,2020, Miami Sales Office , 32 , 163.30 , 187.00 , Male ," $8,157.14 ",2, Yes 
+ B3mWn ,2020, Miami Sales Office , 22 , 178.20 , 240.00 , Female ," $12,296.85 ",0, No 
+ B4AYD ,2020, East Coast - All Locations , 29 , 172.30 , 240.00 , Female ," $11,545.29 ",1, Yes 
+ B4r2Y ,2020, Arkansas Plant , 57 , 174.10 , 153.00 , Female ," $11,127.78 ",0, No 
+ B6G9Y ,2020, East Coast - All Locations , 33 , 171.10 , 242.00 , Male ," $4,990.88 ",1, No 
+ B864p ,2020, Miami Sales Office , 53 , 156.30 , 132.00 , Female ," $9,259.46 ",0, No 
+ B8a23 ,2020, Miami Sales Office , 32 , 156.70 , 188.00 , Female ," $23,838.11 ",1, No 
+ B8fP8 ,2020, East Coast - All Locations , 23 , 177.70 , 212.00 , Male ," $15,713.50 ",0, Yes 
+ B8Ycr ,2020, East Coast - All Locations , 28 , 157.00 , 202.00 , Female ," $3,364.10 ",0, No 
+ B9h1e ,2020, Arkansas Plant , 39 , 173.30 , 248.00 , Male ," $7,748.95 ",1, No 
+ B9hP2 ,2020, Miami Sales Office , 32 , 163.70 , 196.00 , Female ," $6,028.86 ",1, No 
+ B9t0Q ,2020, East Coast - All Locations , 32 , 165.80 , 124.00 , Male ," $3,999.75 ",1, No 
+ BaDfY ,2020, East Coast - All Locations , 32 , 160.90 , 217.00 , Male ," $4,225.15 ",5, No 
+ BaGG9 ,2020, East Coast - All Locations , 38 , 169.80 , 175.00 , Female ," $11,697.09 ",2, No 
+ Bb2vX ,2020, Arkansas Plant , 39 , 169.00 , 301.00 , Male ," $9,021.30 ",1, No 
+ BbEvm ,2020, Miami Sales Office , 25 , 174.90 , 232.00 , Male ," $9,574.65 ",0, Yes 
+ BbG4L ,2020, East Coast - All Locations , 34 , 158.30 , 215.00 , Male ," $3,917.37 ",0, No 
+ BbkY8 ,2020, Miami Sales Office , 22 , 176.40 , 156.00 , Male , $583.54 ,0, No 
+ BbnwW ,2020, East Coast - All Locations , 41 , 167.80 , 252.00 , Male ," $44,484.73 ",2, Yes 
+ BbQ5r ,2020, East Coast - All Locations , 29 , 149.70 , 113.00 , Female ," $2,677.43 ",2, No 
+ Bc0CQ ,2020, East Coast - All Locations , 35 , 152.60 , 177.00 , Female ," $4,561.68 ",0, No 
+ BcFYV ,2020, Arkansas Plant , 38 , 163.30 , 113.00 , Male ," $5,560.95 ",4, No 
+ Bcm8c ,2020, California - All Locations , 54 , 177.30 , 248.00 , Male ," $18,630.85 ",0, Yes 
+ BczXr ,2020, Arkansas Plant , 35 , 177.30 , 192.00 , Male ," $4,002.56 ",1, No 
+ Bd7A1 ,2020, Arkansas Plant , 48 , 184.40 , 212.00 , Male ," $5,358.21 ",2, No 
+ BdF6c ,2020, East Coast - All Locations , 30 , 171.70 , 275.00 , Male ," $27,682.92 ",1, No 
+ BdGM1 ,2020, East Coast - All Locations , 28 , 164.90 , 242.00 , Male ," $3,283.76 ",1, No 
+ Bdy66 ,2020, Arkansas Plant , 40 , 157.70 , 175.00 , Female ," $8,692.12 ",2, No 
+ BeVkf ,2020, East Coast - All Locations , 27 , 157.50 , 185.00 , Male ," $7,960.00 ",1, No 
+ Bf30b ,2020, East Coast - All Locations , 36 , 163.00 , 254.00 , Female ," $6,566.83 ",0, No 
+ Bf5HD ,2020, Arkansas Plant , 25 , 170.40 , 267.00 , Male ," $9,565.88 ",0, Yes 
+ Bf66S ,2020, Arkansas Plant , 44 , 153.50 , 187.00 , Male ," $9,697.48 ",4, No 
+ Bf6dQ ,2020, California - All Locations , 39 , 159.50 , 138.00 , Female ," $15,565.83 ",1, No 
+ BfdaS ,2020, Miami Sales Office , 24 , 166.20 , 171.00 , Female ," $1,018.98 ",0, No 
+ BfW3R ,2020, East Coast - All Locations , 25 , 160.60 , 177.00 , Male ," $2,499.56 ",1, No 
+ BfySX ,2020, California - All Locations , 18 , 153.60 , 192.00 , Male ," $8,893.02 ",0, No 
+ Bgf86 ,2020, East Coast - All Locations , 33 , 182.10 , 301.00 , Male ," $14,785.53 ",1, Yes 
+ BgG8y ,2020, Arkansas Plant , 42 , 177.20 , 188.00 , Male ," $10,227.87 ",2, Yes 
+ Bh4zM ,2020, Miami Sales Office , 26 , 173.70 , 185.00 , Male , $799.20 ,1, No 
+ BhbSS ,2020, East Coast - All Locations , 34 , 190.80 , 208.00 , Male ," $11,380.79 ",0, Yes 
+ Bhyjj ,2020, California - All Locations , 28 , 153.90 , 131.00 , Male ," $3,127.33 ",1, No 
+ Bj03J ,2020, California - All Locations , 37 , 173.70 , 252.00 , Female ," $7,316.52 ",2, No 
+ Bj7Ph ,2020, Miami Sales Office , 45 , 166.20 , 267.00 , Male ," $11,754.65 ",1, No 
+ Bjfb4 ,2020, East Coast - All Locations , 40 , 169.30 , 193.00 , Female ," $7,138.84 ",2, No 
+ BjyJr ,2020, California - All Locations , 34 , 175.20 , 195.00 , Male ," $6,428.42 ",1, Yes 
+ BjZHF ,2020, Arkansas Plant , 45 , 173.70 , 246.00 , Female ," $11,539.01 ",1, No 
+ Bk2tL ,2020, East Coast - All Locations , 29 , 154.00 , 124.00 , Female ," $1,165.37 ",0, No 
+ BkdYG ,2020, Arkansas Plant , 48 , 187.70 , 205.00 , Male ," $17,514.96 ",2, Yes 
+ Bke76 ,2020, California - All Locations , 41 , 174.60 , 248.00 , Male ," $11,330.49 ",0, No 
+ Bkqxk ,2020, California - All Locations , 29 , 157.00 , 156.00 , Female ," $1,848.27 ",0, No 
+ BkrLg ,2020, Miami Sales Office , 33 , 168.20 , 167.00 , Male ," $12,201.39 ",0, No 
+ BP55D ,2020, East Coast - All Locations , 41 , 162.70 , 247.00 , Female ," $10,695.56 ",1, No 
+ BP61C ,2020, East Coast - All Locations , 48 , 163.20 , 160.00 , Male ," $9,921.89 ",2, No 
+ BQ43H ,2020, Miami Sales Office , 39 , 158.20 , 181.00 , Male ," $10,738.89 ",1, No 
+ BQ83D ,2020, East Coast - All Locations , 32 , 177.80 , 160.00 , Male ," $5,989.86 ",1, Yes 
+ BR34B ,2020, California - All Locations , 36 , 156.00 , 126.00 , Female ," $3,905.89 ",1, No 
+ BR74T ,2020, Arkansas Plant , 41 , 157.70 , 110.00 , Female ," $6,516.96 ",0, No 
+ BT67T ,2020, Arkansas Plant , 42 , 184.00 , 257.00 , Male ," $16,327.13 ",2, Yes 
+ BU86E ,2020, Arkansas Plant , 41 , 171.70 , 219.00 , Female ," $9,301.76 ",2, No 
+ BV76C ,2020, Arkansas Plant , 42 , 167.50 , 237.00 , Male ," $9,833.98 ",1, No 
+ BW58S ,2020, Arkansas Plant , 43 , 186.00 , 185.00 , Female ," $14,876.93 ",1, Yes 
+ BX64T ,2020, East Coast - All Locations , 31 , 165.20 , 155.00 , Male ," $3,062.72 ",0, No 
+ BX70F ,2020, Miami Sales Office , 26 , 169.00 , 224.00 , Male ," $2,253.73 ",0, No 
+ BY82F ,2020, East Coast - All Locations , 41 , 205.40 , 346.00 , Male ," $7,072.06 ",2, No 
+ BY99a ,2020, Arkansas Plant , 41 , 165.50 , 120.00 , Male ," $5,128.26 ",2, No 
+ Bz0gH ,2020, Miami Sales Office , 25 , 170.60 , 214.00 , Female ," $24,335.03 ",2, Yes 
+ C00Nz ,2020, East Coast - All Locations , 34 , 160.90 , 171.00 , Female ," $6,928.81 ",2, No 
+ C07fY ,2020, Arkansas Plant , 45 , 163.10 , 170.00 , Male ," $4,710.26 ",1, No 
+ C09SR ,2020, East Coast - All Locations , 29 , 165.40 , 279.00 , Male ," $2,147.98 ",0, No 
+ C1NSM ,2020, East Coast - All Locations , 44 , 168.50 , 185.00 , Male ," $5,567.36 ",1, No 
+ C1pY2 ,2020, East Coast - All Locations , 54 , 187.80 , 392.00 , Male ," $13,493.58 ",2, No 
+ C251m ,2020, Miami Sales Office , 20 , 159.20 , 147.00 , Male , $707.46 ,0, No 
+ C2M1K ,2020, Arkansas Plant , 40 , 164.30 , 172.00 , Male ," $4,661.54 ",0, No 
+ C2SMs ,2020, East Coast - All Locations , 26 , 169.30 , 244.00 , Male ," $3,722.27 ",0, No 
+ C3KLf ,2020, East Coast - All Locations , 40 , 164.80 , 177.00 , Female ," $5,104.07 ",2, No 
+ C3KTb ,2020, East Coast - All Locations , 34 , 162.30 , 129.00 , Male ," $2,182.67 ",0, No 
+ C3UTV ,2020, Miami Sales Office , 23 , 160.50 , 203.00 , Male ," $1,903.57 ",0, No 
+ C474c ,2020, Arkansas Plant , 46 , 177.00 , 182.00 , Female ," $3,769.92 ",1, No 
+ C4HWk ,2020, Arkansas Plant , 43 , 149.90 , 177.00 , Female ," $8,327.48 ",0, No 
+ C672Y ,2020, East Coast - All Locations , 38 , 168.20 , 146.00 , Female ," $5,334.34 ",2, No 
+ C6PNc ,2020, Arkansas Plant , 31 , 162.30 , 179.00 , Female ," $2,994.94 ",0, No 
+ C7ahr ,2020, East Coast - All Locations , 39 , 177.60 , 230.00 , Female ," $7,785.62 ",0, No 
+ C7hUp ,2020, East Coast - All Locations , 24 , 165.00 , 157.00 , Female ," $1,043.18 ",0, No 
+ C7J8D ,2020, East Coast - All Locations , 36 , 171.30 , 216.00 , Male ," $6,683.80 ",1, No 
+ C859g ,2020, Arkansas Plant , 34 , 175.90 , 223.00 , Male ," $21,863.96 ",2, Yes 
+ C883Y ,2020, Arkansas Plant , 35 , 188.40 , 235.00 , Female ," $3,474.78 ",1, No 
+ C8svT ,2020, East Coast - All Locations , 23 , 153.10 , 222.00 , Female ," $22,926.27 ",0, Yes 
+ C9e9H ,2020, East Coast - All Locations , 39 , 172.80 , 203.00 , Male ," $28,383.89 ",1, Yes 
+ Ca1LC ,2020, Arkansas Plant , 44 , 165.30 , 172.00 , Male ," $4,193.55 ",0, No 
+ Ca2NC ,2020, Arkansas Plant , 50 , 170.10 , 226.00 , Female ," $23,961.61 ",0, Yes 
+ Ca340 ,2020, East Coast - All Locations , 39 , 155.10 , 135.00 , Male ," $3,835.13 ",0, No 
+ Caf4Y ,2020, East Coast - All Locations , 22 , 164.30 , 202.00 , Male ," $9,145.50 ",0, No 
+ CaHCa ,2020, East Coast - All Locations , 32 , 165.50 , 130.00 , Female ," $5,928.82 ",0, No 
+ CaLWf ,2020, Miami Sales Office , 33 , 169.90 , 215.00 , Male ," $18,825.82 ",2, No 
+ Catvd ,2020, East Coast - All Locations , 27 , 181.00 , 199.00 , Female ," $1,516.81 ",0, No 
+ CaYUB ,2020, California - All Locations , 45 , 185.40 , 258.00 , Female ," $23,274.75 ",1, No 
+ Cb08V ,2020, East Coast - All Locations , 24 , 162.60 , 276.00 , Female ," $3,014.21 ",0, No 
+ Cb5KQ ,2020, East Coast - All Locations , 32 , 176.90 , 288.00 , Female ," $5,836.80 ",0, No 
+ Cb7Ve ,2020, East Coast - All Locations , 34 , 169.40 , 220.00 , Female ," $10,254.08 ",4, No 
+ Cbk9P ,2020, California - All Locations , 25 , 172.10 , 153.00 , Male ," $2,111.44 ",0, No 
+ CbRJm ,2020, East Coast - All Locations , 31 , 181.70 , 285.00 , Male ," $6,123.28 ",2, No 
+ CbTks ,2020, East Coast - All Locations , 42 , 176.80 , 231.00 , Male ," $7,954.44 ",0, No 
+ Cc30r ,2020, California - All Locations , 27 , 158.90 , 134.00 , Female ," $2,335.28 ",0, No 
+ CcD5S ,2020, Arkansas Plant , 39 , 169.90 , 127.00 , Male ," $23,816.00 ",2, Yes 
+ CcfV2 ,2020, East Coast - All Locations , 30 , 170.30 , 259.00 , Male ," $3,932.69 ",2, No 
+ CcfZ8 ,2020, East Coast - All Locations , 34 , 174.50 , 198.00 , Male ," $3,144.46 ",1, No 
+ CcY58 ,2020, Arkansas Plant , 27 , 174.40 , 173.00 , Male ," $2,081.63 ",2, No 
+ CcY6h ,2020, Arkansas Plant , 46 , 178.10 , 146.00 , Male ," $23,769.70 ",1, Yes 
+ CcYtE ,2020, East Coast - All Locations , 25 , 170.00 , 156.00 , Male , $764.83 ,0, No 
+ Cd01w ,2020, Miami Sales Office , 39 , 155.70 , 228.00 , Male ," $22,976.74 ",1, No 
+ Cdb55 ,2020, Arkansas Plant , 45 , 173.70 , 232.00 , Male ," $9,176.36 ",2, No 
+ CdWLP ,2020, East Coast - All Locations , 32 , 159.70 , 169.00 , Female ," $3,039.71 ",1, No 
+ Cdya4 ,2020, East Coast - All Locations , 21 , 149.70 , 130.00 , Female ," $1,158.81 ",0, No 
+ Ce8jH ,2020, California - All Locations , 31 , 149.80 , 131.00 , Male ," $7,447.55 ",1, No 
+ CeAVe ,2020, Miami Sales Office , 26 , 177.90 , 231.00 , Female ," $1,398.29 ",0, No 
+ CecfA ,2020, East Coast - All Locations , 39 , 158.30 , 158.00 , Male ," $6,101.30 ",1, No 
+ Cf9mn ,2020, California - All Locations , 29 , 186.00 , 250.00 , Male ," $13,802.16 ",0, Yes 
+ Cfc3q ,2020, California - All Locations , 49 , 154.80 , 109.00 , Female ," $9,831.66 ",2, No 
+ CffSb ,2020, East Coast - All Locations , 26 , 163.50 , 184.00 , Female ," $2,406.58 ",1, No 
+ CffYC ,2020, Miami Sales Office , 31 , 164.80 , 229.00 , Female ," $4,236.88 ",1, No 
+ Cg08T ,2020, Miami Sales Office , 28 , 168.60 , 171.00 , Male , $621.40 ,0, No 
+ Cgtn8 ,2020, California - All Locations , 24 , 188.20 , 203.00 , Male ," $15,434.50 ",1, No 
+ Ch1A8 ,2020, East Coast - All Locations , 31 , 183.20 , 212.00 , Female ," $4,275.92 ",1, No 
+ ChApt ,2020, California - All Locations , 25 , 156.00 , 173.00 , Male ," $2,597.56 ",0, No 
+ Chdb5 ,2020, Arkansas Plant , 19 , 178.70 , 168.00 , Male ," $3,826.62 ",0, Yes 
+ ChLfS ,2020, East Coast - All Locations , 30 , 168.50 , 221.00 , Male ," $4,880.17 ",2, No 
+ ChST9 ,2020, Miami Sales Office , 27 , 164.70 , 139.00 , Female ," $5,940.23 ",1, Yes 
+ Chx17 ,2020, East Coast - All Locations , 39 , 168.20 , 134.00 , Male ," $7,344.77 ",4, No 
+ Cj127 ,2020, East Coast - All Locations , 28 , 156.30 , 164.00 , Female ," $2,194.98 ",0, No 
+ Cj7ag ,2020, East Coast - All Locations , 26 , 182.70 , 219.00 , Male ," $18,042.61 ",1, No 
+ CjQFF ,2020, East Coast - All Locations , 35 , 154.80 , 127.00 , Male ," $6,254.33 ",1, No 
+ CjzZV ,2020, Arkansas Plant , 40 , 167.50 , 179.00 , Male ," $5,250.60 ",0, No 
+ Ck3E0 ,2020, Arkansas Plant , 37 , 184.20 , 276.00 , Male ," $26,134.02 ",1, Yes 
+ CkGBQ ,2020, East Coast - All Locations , 39 , 163.40 , 102.00 , Male ," $4,399.55 ",1, No 
+ CkL9b ,2020, California - All Locations , 38 , 157.70 , 220.00 , Female ," $10,081.70 ",0, No 
+ CkPwc ,2020, East Coast - All Locations , 44 , 161.10 , 173.00 , Female ," $7,432.33 ",1, No 
+ CkW0b ,2020, Arkansas Plant , 40 , 166.90 , 144.00 , Male ," $3,129.78 ",1, No 
+ CkWkV ,2020, East Coast - All Locations , 25 , 171.80 , 217.00 , Female ," $1,433.25 ",0, No 
+ CP20V ,2020, Arkansas Plant , 35 , 170.20 , 285.00 , Male ," $4,538.06 ",1, No 
+ CP45a ,2020, East Coast - All Locations , 32 , 198.00 , 188.00 , Male ," $2,904.17 ",2, No 
+ CQ62a ,2020, Arkansas Plant , 41 , 176.70 , 274.00 , Male ," $9,819.41 ",1, No 
+ CQ65C ,2020, East Coast - All Locations , 30 , 172.70 , 114.00 , Male ," $2,656.22 ",2, No 
+ CS57U ,2020, California - All Locations , 27 , 179.00 , 262.00 , Male ," $14,383.83 ",0, No 
+ CS64V ,2020, Arkansas Plant , 46 , 163.70 , 219.00 , Male ," $7,296.46 ",1, No 
+ CT59T ,2020, Arkansas Plant , 41 , 196.30 , 284.00 , Male ," $6,716.54 ",0, No 
+ CT62B ,2020, Arkansas Plant , 40 , 159.60 , 154.00 , Male ," $4,415.57 ",2, No 
+ CU41U ,2020, East Coast - All Locations , 23 , 165.60 , 187.00 , Male ," $1,055.94 ",0, No 
+ CU67S ,2020, California - All Locations , 41 , 170.20 , 169.00 , Female ," $4,395.62 ",2, No 
+ CV23s ,2020, East Coast - All Locations , 26 , 175.50 , 189.00 , Female ," $14,717.57 ",3, Yes 
+ CV39L ,2020, East Coast - All Locations , 29 , 161.40 , 160.00 , Male ," $1,233.52 ",0, No 
+ CV77J ,2020, East Coast - All Locations , 46 , 182.00 , 206.00 , Female ," $5,821.03 ",1, No 
+ CW57Q ,2020, East Coast - All Locations , 38 , 163.10 , 177.00 , Male ," $7,874.55 ",1, No 
+ CW69s ,2020, East Coast - All Locations , 25 , 172.70 , 176.00 , Male ," $1,079.05 ",0, No 
+ CY13M ,2020, California - All Locations , 33 , 158.60 , 185.00 , Female ," $4,146.39 ",0, No 
+ CY63A ,2020, East Coast - All Locations , 38 , 170.00 , 243.00 , Female ," $10,318.45 ",2, No 
+ Cz1gG ,2020, California - All Locations , 52 , 160.80 , 168.00 , Male ," $19,401.91 ",1, No 
+ CZ60C ,2020, East Coast - All Locations , 34 , 160.60 , 137.00 , Male ," $2,391.15 ",1, No 
+ Cza8a ,2020, Arkansas Plant , 51 , 154.70 , 119.00 , Male ," $5,759.63 ",0, No 
+ Czf7J ,2020, East Coast - All Locations , 30 , 167.30 , 246.00 , Male ," $5,169.25 ",2, No 
+ CzqnL ,2020, East Coast - All Locations , 28 , 178.00 , 194.00 , Female ," $11,902.89 ",2, Yes 
+ Cztd9 ,2020, Miami Sales Office , 31 , 174.60 , 209.00 , Female ," $4,049.33 ",1, No 
+ D0262 ,2020, Miami Sales Office , 27 , 178.50 , 232.00 , Female ," $7,786.91 ",2, Yes 
+ D027y ,2020, Miami Sales Office , 24 , 167.90 , 182.00 , Female ," $1,132.96 ",0, No 
+ D0ACR ,2020, East Coast - All Locations , 25 , 173.50 , 200.00 , Female ," $1,682.58 ",1, No 
+ D0t01 ,2020, California - All Locations , 38 , 160.60 , 151.00 , Male ," $14,051.67 ",2, No 
+ D10KS ,2020, East Coast - All Locations , 41 , 174.40 , 175.00 , Male ," $6,905.47 ",0, No 
+ D1c7Z ,2020, Arkansas Plant , 47 , 162.00 , 160.00 , Female ," $6,563.03 ",2, No 
+ D2eTd ,2020, Arkansas Plant , 42 , 181.30 , 196.00 , Male ," $9,903.45 ",1, Yes 
+ D3a99 ,2020, Arkansas Plant , 45 , 179.80 , 140.00 , Male ," $3,145.53 ",1, No 
+ D3kw8 ,2020, Miami Sales Office , 25 , 159.50 , 128.00 , Male , $791.65 ,0, No 
+ D3Z4x ,2020, Arkansas Plant , 28 , 155.60 , 148.00 , Female ," $1,631.45 ",2, No 
+ D5eqc ,2020, Arkansas Plant , 22 , 172.90 , 218.00 , Female , $913.07 ,0, No 
+ D5s0h ,2020, East Coast - All Locations , 24 , 165.40 , 136.00 , Male ," $1,584.25 ",2, No 
+ D5vj2 ,2020, East Coast - All Locations , 28 , 171.70 , 152.00 , Female ," $1,437.48 ",0, No 
+ D5YP7 ,2020, Miami Sales Office , 40 , 176.50 , 289.00 , Female ," $13,720.52 ",1, Yes 
+ D7ueT ,2020, East Coast - All Locations , 26 , 174.20 , 228.00 , Male ," $8,353.17 ",0, Yes 
+ D7vWC ,2020, California - All Locations , 26 , 185.80 , 269.00 , Female ," $2,500.34 ",0, No 
+ D823t ,2020, East Coast - All Locations , 27 , 172.20 , 221.00 , Male , $874.30 ,0, No 
+ D8PTQ ,2020, East Coast - All Locations , 31 , 168.00 , 144.00 , Female ," $3,803.41 ",3, No 
+ D8qhn ,2020, Miami Sales Office , 42 , 179.10 , 228.00 , Male ," $26,072.83 ",1, Yes 
+ D9475 ,2020, Miami Sales Office , 26 , 184.60 , 207.00 , Female ," $1,173.51 ",0, No 
+ D99km ,2020, East Coast - All Locations , 30 , 170.00 , 179.00 , Female ," $1,217.85 ",0, No 
+ D9J9T ,2020, East Coast - All Locations , 23 , 155.60 , 180.00 , Female ," $2,312.97 ",0, No 
+ D9Jkv ,2020, Miami Sales Office , 44 , 183.60 , 215.00 , Male ," $4,323.93 ",1, No 
+ Da49n ,2020, East Coast - All Locations , 29 , 163.20 , 177.00 , Female ," $3,406.67 ",0, No 
+ DaHyR ,2020, East Coast - All Locations , 31 , 169.10 , 182.00 , Female ," $2,312.34 ",0, No 
+ Db4HE ,2020, Arkansas Plant , 47 , 169.50 , 202.00 , Male ," $13,605.30 ",1, Yes 
+ Db72L ,2020, California - All Locations , 47 , 186.00 , 254.00 , Male ," $6,590.51 ",0, No 
+ Db74d ,2020, East Coast - All Locations , 35 , 156.70 , 131.00 , Female ," $3,989.57 ",1, No 
+ DbeQq ,2020, East Coast - All Locations , 28 , 171.10 , 234.00 , Male ," $26,995.46 ",1, Yes 
+ DbPjz ,2020, California - All Locations , 39 , 176.50 , 235.00 , Female ," $9,839.67 ",1, No 
+ DbpVY ,2020, East Coast - All Locations , 31 , 169.90 , 209.00 , Female ," $3,708.67 ",0, No 
+ Dc1r6 ,2020, East Coast - All Locations , 47 , 158.10 , 186.00 , Female ," $11,896.05 ",0, No 
+ Dc1TX ,2020, Miami Sales Office , 43 , 158.40 , 196.00 , Male ," $10,190.33 ",1, No 
+ Dc3Qv ,2020, Arkansas Plant , 41 , 168.70 , 203.00 , Female ," $11,431.59 ",1, No 
+ DcKjJ ,2020, East Coast - All Locations , 26 , 178.70 , 171.00 , Male ," $1,369.87 ",0, No 
+ DcQw4 ,2020, Arkansas Plant , 41 , 157.30 , 181.00 , Male ," $6,390.73 ",2, No 
+ DcY3k ,2020, Arkansas Plant , 50 , 167.60 , 125.00 , Male ," $8,914.04 ",1, No 
+ DdB5b ,2020, East Coast - All Locations , 39 , 160.20 , 256.00 , Female ," $11,440.60 ",1, No 
+ Ddfmu ,2020, Arkansas Plant , 23 , 160.30 , 184.00 , Male ," $1,580.48 ",2, No 
+ DdjY1 ,2020, Miami Sales Office , 21 , 159.80 , 145.00 , Female ," $1,650.33 ",1, No 
+ DdN2T ,2020, East Coast - All Locations , 24 , 164.50 , 191.00 , Male , $900.80 ,0, No 
+ DdRd7 ,2020, Arkansas Plant , 28 , 167.60 , 178.00 , Male , $911.97 ,0, No 
+ De1b3 ,2020, East Coast - All Locations , 46 , 174.70 , 162.00 , Female ," $4,567.55 ",1, No 
+ De4mk ,2020, Miami Sales Office , 42 , 158.40 , 154.00 , Female ," $7,421.70 ",2, No 
+ DeRj0 ,2020, Miami Sales Office , 40 , 177.50 , 207.00 , Male ," $10,040.90 ",1, Yes 
+ Df2HT ,2020, East Coast - All Locations , 31 , 173.30 , 175.00 , Female ," $2,439.69 ",2, No 
+ Df34M ,2020, East Coast - All Locations , 43 , 151.60 , 164.00 , Female ," $7,977.83 ",2, No 
+ Df549 ,2020, Arkansas Plant , 34 , 184.50 , 210.00 , Male ," $2,214.23 ",0, No 
+ DfAA7 ,2020, California - All Locations , 25 , 156.80 , 185.00 , Female ," $2,511.92 ",1, No 
+ DfBqY ,2020, Miami Sales Office , 36 , 153.50 , 111.00 , Male ," $4,245.19 ",2, No 
+ DffYH ,2020, East Coast - All Locations , 31 , 174.60 , 202.00 , Female ," $3,975.21 ",0, No 
+ DffZ9 ,2020, California - All Locations , 24 , 165.20 , 187.00 , Female ," $2,618.05 ",0, No 
+ Dfxd3 ,2020, East Coast - All Locations , 38 , 192.70 , 248.00 , Female ," $8,413.00 ",2, No 
+ DfZr2 ,2020, California - All Locations , 42 , 178.70 , 254.00 , Male ," $14,981.36 ",2, Yes 
+ Dga7k ,2020, East Coast - All Locations , 26 , 164.20 , 223.00 , Male ," $2,387.52 ",0, No 
+ DgH2Q ,2020, East Coast - All Locations , 31 , 160.90 , 129.00 , Male ," $3,549.33 ",2, No 
+ DgwPC ,2020, Arkansas Plant , 44 , 172.20 , 165.00 , Male ," $4,884.35 ",1, No 
+ DgYfm ,2020, East Coast - All Locations , 31 , 179.70 , 253.00 , Female ," $5,654.68 ",2, No 
+ Dgze8 ,2020, East Coast - All Locations , 41 , 160.90 , 143.00 , Male ," $3,774.57 ",1, No 
+ DhFUj ,2020, East Coast - All Locations , 38 , 157.80 , 142.00 , Female ," $4,102.35 ",1, No 
+ DhFYR ,2020, California - All Locations , 25 , 169.90 , 164.00 , Female ," $17,741.45 ",1, No 
+ DhPfJ ,2020, Arkansas Plant , 44 , 163.90 , 182.00 , Male ," $10,117.76 ",0, No 
+ Dhx3y ,2020, Miami Sales Office , 36 , 165.80 , 174.00 , Male ," $8,083.65 ",1, Yes 
+ DhZ8M ,2020, California - All Locations , 38 , 164.10 , 113.00 , Female ," $16,111.42 ",2, No 
+ Dj2jd ,2020, East Coast - All Locations , 27 , 191.60 , 293.00 , Male ," $7,547.47 ",1, Yes 
+ Dj2N0 ,2020, Arkansas Plant , 40 , 180.20 , 192.00 , Female ," $7,641.96 ",1, No 
+ Djb74 ,2020, Arkansas Plant , 41 , 168.20 , 117.00 , Female ," $6,957.54 ",1, No 
+ DjJM8 ,2020, East Coast - All Locations , 27 , 158.20 , 158.00 , Male ," $1,745.25 ",2, No 
+ DjM2q ,2020, East Coast - All Locations , 25 , 172.60 , 160.00 , Male ," $10,046.50 ",2, Yes 
+ Dju9x ,2020, East Coast - All Locations , 27 , 182.40 , 169.00 , Male ," $8,378.80 ",0, Yes 
+ DkEHf ,2020, East Coast - All Locations , 34 , 164.30 , 149.00 , Male ," $4,822.32 ",1, No 
+ DkSK6 ,2020, Arkansas Plant , 27 , 178.40 , 282.00 , Male ," $3,634.81 ",1, No 
+ DktT6 ,2020, East Coast - All Locations , 26 , 163.20 , 133.00 , Female ," $1,964.50 ",1, No 
+ DP12C ,2020, California - All Locations , 32 , 183.20 , 267.00 , Female ," $15,912.64 ",1, Yes 
+ DP1Q ,2020, California - All Locations , 30 , 154.00 , 186.00 , Male ," $6,124.63 ",2, No 
+ DP88B ,2020, Miami Sales Office , 29 , 188.50 , 208.00 , Male ," $9,641.30 ",2, No 
+ DQ21B ,2020, Miami Sales Office , 26 , 154.10 , 151.00 , Male ," $1,596.60 ",1, No 
+ DQ22K ,2020, Arkansas Plant , 45 , 170.10 , 195.00 , Female ," $22,538.41 ",2, Yes 
+ DQ45F ,2020, Arkansas Plant , 39 , 157.30 , 174.00 , Female ," $9,836.66 ",4, No 
+ DQ60M ,2020, East Coast - All Locations , 26 , 160.50 , 178.00 , Male ," $1,416.17 ",0, No 
+ DQ69H ,2020, California - All Locations , 27 , 161.60 , 182.00 , Male ," $2,482.84 ",0, No 
+ DR5Q ,2020, Miami Sales Office , 23 , 158.60 , 115.00 , Female ," $10,307.17 ",0, No 
+ DR74F ,2020, Arkansas Plant , 38 , 169.80 , 168.00 , Female ," $5,096.21 ",1, No 
+ DT42D ,2020, East Coast - All Locations , 43 , 158.30 , 155.00 , Male ," $3,861.38 ",1, No 
+ DU30H ,2020, Arkansas Plant , 28 , 166.70 , 173.00 , Male ," $10,560.33 ",1, Yes 
+ DU43N ,2020, East Coast - All Locations , 31 , 161.10 , 102.00 , Female ," $3,651.76 ",0, No 
+ DU95X ,2020, Miami Sales Office , 51 , 154.50 , 197.00 , Female ," $12,369.15 ",0, No 
+ DV26F ,2020, California - All Locations , 32 , 170.20 , 146.00 , Female ," $4,863.53 ",2, No 
+ DV88N ,2020, California - All Locations , 30 , 162.30 , 248.00 , Female ," $4,207.35 ",0, No 
+ DW12T ,2020, Miami Sales Office , 28 , 174.30 , 183.00 , Male ," $2,256.67 ",2, No 
+ DW4K ,2020, Arkansas Plant , 41 , 159.60 , 267.00 , Male ," $7,083.82 ",1, No 
+ DW72F ,2020, East Coast - All Locations , 34 , 155.70 , 158.00 , Male ," $2,715.62 ",1, No 
+ Dz0Ug ,2020, Arkansas Plant , 33 , 168.60 , 288.00 , Male ," $19,219.90 ",0, Yes 
+ DZ18B ,2020, East Coast - All Locations , 39 , 153.70 , 142.00 , Female ," $5,221.38 ",1, No 
+ DZ6X ,2020, California - All Locations , 37 , 183.90 , 212.00 , Female ," $19,208.25 ",2, No 
+ Dz733 ,2020, East Coast - All Locations , 39 , 182.30 , 255.00 , Male ," $19,902.57 ",2, Yes 
+ DZ76a ,2020, Miami Sales Office , 27 , 181.10 , 200.00 , Female ," $18,300.87 ",1, No 
+ DzgEx ,2020, East Coast - All Locations , 55 , 176.10 , 224.00 , Female ," $13,085.91 ",0, No 
+ E0Swc ,2020, East Coast - All Locations , 27 , 176.90 , 174.00 , Female ," $2,400.95 ",1, No 
+ E0wx2 ,2020, East Coast - All Locations , 44 , 160.50 , 161.00 , Male ," $4,818.52 ",2, No 
+ E12U3 ,2020, East Coast - All Locations , 27 , 155.90 , 110.00 , Male ," $2,655.35 ",0, No 
+ E1Eg3 ,2020, East Coast - All Locations , 38 , 177.10 , 200.00 , Female ," $6,045.10 ",1, No 
+ E1kNu ,2020, East Coast - All Locations , 27 , 151.50 , 192.00 , Male ," $2,115.95 ",0, No 
+ E1psB ,2020, East Coast - All Locations , 23 , 175.50 , 291.00 , Female ," $10,631.40 ",0, Yes 
+ E275L ,2020, Arkansas Plant , 37 , 195.70 , 294.00 , Male ," $19,632.33 ",0, Yes 
+ E2Q82 ,2020, Arkansas Plant , 35 , 168.30 , 226.00 , Male ," $5,646.10 ",1, No 
+ E2weH ,2020, East Coast - All Locations , 34 , 167.40 , 242.00 , Male ," $9,179.43 ",1, No 
+ E342Z ,2020, East Coast - All Locations , 26 , 165.60 , 160.00 , Female ," $1,603.98 ",0, No 
+ E38YJ ,2020, California - All Locations , 28 , 168.60 , 186.00 , Female ," $2,463.08 ",0, No 
+ E3AS8 ,2020, Miami Sales Office , 31 , 161.30 , 183.00 , Male ," $3,810.70 ",1, No 
+ E3mVs ,2020, East Coast - All Locations , 32 , 163.20 , 211.00 , Female ," $4,381.37 ",0, No 
+ E3p2Y ,2020, East Coast - All Locations , 24 , 166.50 , 170.00 , Male , $554.44 ,0, No 
+ E3VB6 ,2020, East Coast - All Locations , 26 , 167.50 , 110.00 , Male ," $1,478.17 ",1, No 
+ E4238 ,2020, Miami Sales Office , 31 , 164.30 , 160.00 , Male ," $3,071.31 ",1, No 
+ E4Y18 ,2020, Miami Sales Office , 53 , 155.90 , 165.00 , Male ," $11,565.40 ",1, No 
+ E5E9b ,2020, California - All Locations , 35 , 176.20 , 160.00 , Female ," $10,464.31 ",1, No 
+ E5m7J ,2020, East Coast - All Locations , 34 , 177.20 , 306.00 , Female ," $6,079.87 ",0, No 
+ E6DB2 ,2020, East Coast - All Locations , 23 , 155.80 , 129.00 , Female ," $1,392.46 ",0, No 
+ E6nJ2 ,2020, East Coast - All Locations , 42 , 156.30 , 144.00 , Male ," $19,284.24 ",1, Yes 
+ E7Qku ,2020, California - All Locations , 33 , 176.60 , 257.00 , Male ," $8,906.54 ",1, No 
+ E83TA ,2020, East Coast - All Locations , 43 , 154.50 , 216.00 , Male ," $6,536.68 ",2, No 
+ E8bWw ,2020, East Coast - All Locations , 41 , 174.30 , 255.00 , Male ," $17,521.96 ",2, Yes 
+ E8e98 ,2020, East Coast - All Locations , 33 , 164.30 , 152.00 , Male ," $2,176.05 ",1, No 
+ E8qfQ ,2020, Arkansas Plant , 41 , 157.30 , 129.00 , Female ," $7,919.32 ",1, Yes 
+ E982G ,2020, Miami Sales Office , 34 , 178.60 , 242.00 , Male ," $25,160.97 ",2, No 
+ E9r31 ,2020, East Coast - All Locations , 39 , 181.20 , 318.00 , Male ," $11,254.24 ",2, No 
+ Ea2GQ ,2020, East Coast - All Locations , 42 , 156.90 , 166.00 , Male ," $7,116.07 ",2, No 
+ Ea843 ,2020, East Coast - All Locations , 23 , 165.90 , 276.00 , Male ," $11,124.05 ",0, Yes 
+ Ea9RW ,2020, California - All Locations , 28 , 170.90 , 187.00 , Male ," $2,238.70 ",0, No 
+ EaYGH ,2020, East Coast - All Locations , 40 , 164.70 , 192.00 , Male ," $8,038.67 ",0, No 
+ EaYYT ,2020, East Coast - All Locations , 38 , 184.70 , 298.00 , Male ," $36,384.84 ",1, Yes 
+ EazWb ,2020, Miami Sales Office , 24 , 182.10 , 284.00 , Female ," $3,678.09 ",0, No 
+ Eb13L ,2020, Arkansas Plant , 39 , 158.40 , 170.00 , Male ," $19,651.09 ",1, No 
+ Ebd6H ,2020, East Coast - All Locations , 34 , 174.90 , 118.00 , Male ," $2,606.57 ",2, No 
+ EbmBE ,2020, Arkansas Plant , 41 , 159.10 , 212.00 , Male ," $5,402.19 ",1, No 
+ Ebqy3 ,2020, Arkansas Plant , 35 , 154.70 , 114.00 , Male ," $3,773.84 ",1, No 
+ Ebtj0 ,2020, California - All Locations , 40 , 162.70 , 169.00 , Female ," $8,777.36 ",1, No 
+ EbVN9 ,2020, Arkansas Plant , 39 , 172.80 , 287.00 , Male ," $30,810.60 ",0, Yes 
+ EbWv6 ,2020, East Coast - All Locations , 52 , 171.90 , 194.00 , Male ," $32,812.26 ",1, No 
+ Ec8KU ,2020, Arkansas Plant , 41 , 171.30 , 173.00 , Female ," $5,825.66 ",0, Yes 
+ Ecbg1 ,2020, Arkansas Plant , 50 , 180.20 , 176.00 , Male ," $17,170.01 ",2, Yes 
+ Ecmqg ,2020, Arkansas Plant , 39 , 154.00 , 187.00 , Male ," $6,796.03 ",0, No 
+ Ecr6j ,2020, Miami Sales Office , 40 , 166.20 , 135.00 , Female ," $6,265.55 ",2, No 
+ Ecv3Z ,2020, Arkansas Plant , 41 , 175.50 , 205.00 , Female ," $7,832.73 ",1, No 
+ Ed2ag ,2020, Miami Sales Office , 41 , 181.40 , 158.00 , Male ," $5,697.50 ",2, No 
+ Ed2wK ,2020, Arkansas Plant , 41 , 177.80 , 180.00 , Male ," $10,557.28 ",1, Yes 
+ Edg4G ,2020, East Coast - All Locations , 40 , 168.20 , 174.00 , Female ," $5,913.25 ",0, No 
+ EdHYj ,2020, Miami Sales Office , 45 , 155.20 , 173.00 , Male ," $7,421.89 ",0, No 
+ EdrmY ,2020, California - All Locations , 38 , 174.00 , 155.00 , Female ," $7,871.97 ",0, No 
+ EdsTc ,2020, California - All Locations , 21 , 162.50 , 98.00 , Male ," $1,370.71 ",0, No 
+ EdSyu ,2020, California - All Locations , 41 , 154.00 , 167.00 , Female ," $17,752.95 ",2, No 
+ EdZwt ,2020, East Coast - All Locations , 33 , 185.00 , 158.00 , Female ," $2,522.49 ",2, No 
+ Ee12W ,2020, East Coast - All Locations , 34 , 170.20 , 145.00 , Male ," $2,341.43 ",0, No 
+ Ee2GC ,2020, Arkansas Plant , 38 , 159.10 , 126.00 , Female ," $5,086.89 ",1, No 
+ Eewk4 ,2020, East Coast - All Locations , 29 , 170.00 , 151.00 , Male ," $1,376.22 ",0, No 
+ EewRu ,2020, California - All Locations , 26 , 153.90 , 134.00 , Female ," $1,780.43 ",0, No 
+ EewS9 ,2020, East Coast - All Locations , 30 , 176.80 , 224.00 , Male ," $5,418.98 ",2, No 
+ EeYp2 ,2020, Arkansas Plant , 42 , 180.50 , 207.00 , Female ," $4,836.17 ",2, No 
+ EfLLh ,2020, East Coast - All Locations , 27 , 168.60 , 232.00 , Female ," $14,073.45 ",1, No 
+ Efn2Z ,2020, East Coast - All Locations , 31 , 161.90 , 127.00 , Female ," $2,482.34 ",3, No 
+ EfuBt ,2020, Miami Sales Office , 24 , 171.30 , 155.00 , Female ," $16,223.89 ",1, No 
+ EfUFB ,2020, Arkansas Plant , 42 , 156.40 , 147.00 , Female ," $7,869.44 ",2, No 
+ EfuP5 ,2020, Miami Sales Office , 23 , 172.70 , 162.00 , Male , $725.57 ,0, No 
+ EfxV9 ,2020, Arkansas Plant , 38 , 183.70 , 305.00 , Male ," $7,441.44 ",1, No 
+ Eg747 ,2020, East Coast - All Locations , 38 , 158.40 , 179.00 , Male ," $9,785.42 ",0, No 
+ Ege8x ,2020, California - All Locations , 32 , 163.20 , 170.00 , Female ," $6,114.55 ",0, No 
+ EgV9h ,2020, East Coast - All Locations , 37 , 161.40 , 137.00 , Female ," $3,773.53 ",1, No 
+ Eh4W8 ,2020, East Coast - All Locations , 45 , 171.70 , 172.00 , Female ," $8,918.82 ",1, No 
+ EhHZ4 ,2020, Arkansas Plant , 43 , 173.60 , 186.00 , Female ," $21,641.39 ",2, Yes 
+ EhL8X ,2020, East Coast - All Locations , 44 , 157.60 , 178.00 , Female ," $7,382.60 ",0, No 
+ Ehwzq ,2020, Miami Sales Office , 31 , 160.50 , 182.00 , Male ," $4,726.87 ",1, No 
+ Ejcpm ,2020, Miami Sales Office , 41 , 161.20 , 165.00 , Female ," $6,729.03 ",2, No 
+ EjL2B ,2020, Arkansas Plant , 41 , 175.00 , 250.00 , Male ," $26,959.13 ",1, Yes 
+ Ek6t8 ,2020, Miami Sales Office , 31 , 168.10 , 193.00 , Female ," $4,353.87 ",1, No 
+ Ek8Ev ,2020, California - All Locations , 25 , 185.70 , 256.00 , Female ," $1,938.52 ",0, No 
+ Ekqsb ,2020, California - All Locations , 30 , 165.40 , 216.00 , Male ," $6,246.99 ",1, No 
+ EP18Q ,2020, Miami Sales Office , 53 , 179.30 , 183.00 , Female ," $13,085.62 ",0, Yes 
+ EP56B ,2020, East Coast - All Locations , 26 , 146.90 , 165.00 , Female ," $2,162.40 ",0, No 
+ EP64W ,2020, Arkansas Plant , 40 , 158.90 , 169.00 , Female ," $9,674.53 ",2, No 
+ EQ16R ,2020, East Coast - All Locations , 34 , 164.10 , 198.00 , Female ," $4,953.98 ",2, No 
+ EQ72P ,2020, East Coast - All Locations , 32 , 179.60 , 214.00 , Male ," $2,792.41 ",1, No 
+ ES10V ,2020, Miami Sales Office , 45 , 161.70 , 213.00 , Female ," $9,898.31 ",2, No 
+ ET38F ,2020, Arkansas Plant , 45 , 172.50 , 206.00 , Male ," $37,044.37 ",1, Yes 
+ ET66Z ,2020, East Coast - All Locations , 29 , 177.60 , 227.00 , Male ," $2,878.39 ",2, No 
+ ET80W ,2020, Miami Sales Office , 27 , 182.10 , 289.00 , Female ," $24,448.85 ",1, No 
+ EV83s ,2020, Miami Sales Office , 30 , 164.90 , 226.00 , Male ," $12,887.77 ",0, Yes 
+ EW9M ,2020, Arkansas Plant , 38 , 156.10 , 135.00 , Male ," $3,701.32 ",0, No 
+ EY13Q ,2020, Arkansas Plant , 47 , 163.20 , 176.00 , Female ," $18,957.27 ",1, No 
+ EY19U ,2020, Arkansas Plant , 49 , 186.70 , 377.00 , Female ," $13,613.62 ",0, No 
+ EY63X ,2020, Miami Sales Office , 39 , 191.20 , 250.00 , Female ," $28,205.91 ",2, Yes 
+ Ez3zy ,2020, Arkansas Plant , 40 , 169.50 , 197.00 , Male ," $9,135.74 ",1, Yes 
+ EZ4B ,2020, Miami Sales Office , 31 , 168.60 , 205.00 , Female ," $5,381.76 ",1, No 
+ EZ83N ,2020, East Coast - All Locations , 48 , 170.90 , 229.00 , Female ," $11,531.69 ",1, No 
+ EzEVW ,2020, Arkansas Plant , 46 , 160.80 , 217.00 , Male ," $20,752.50 ",3, No 
+ Ezx7q ,2020, East Coast - All Locations , 21 , 182.20 , 165.00 , Male , $596.94 ,0, No 
+ EzxU2 ,2020, Arkansas Plant , 38 , 154.70 , 161.00 , Female ," $10,685.20 ",2, No 
+ F0Gyn ,2020, Miami Sales Office , 37 , 177.90 , 246.00 , Female ," $39,014.72 ",2, Yes 
+ F0Qg6 ,2020, Arkansas Plant , 40 , 164.60 , 176.00 , Female ," $6,347.86 ",2, No 
+ F0UU2 ,2020, East Coast - All Locations , 32 , 181.10 , 263.00 , Male ," $27,292.55 ",2, Yes 
+ F1J4Q ,2020, Arkansas Plant , 45 , 173.70 , 240.00 , Female ," $20,675.44 ",2, Yes 
+ F29tk ,2020, Arkansas Plant , 34 , 159.30 , 150.00 , Female ," $10,015.35 ",0, No 
+ F2M0y ,2020, Miami Sales Office , 30 , 177.40 , 281.00 , Female ," $14,126.17 ",1, Yes 
+ F4aWN ,2020, Arkansas Plant , 37 , 167.80 ," 1,853.00 ", Female ," $10,873.02 ",1, No 
+ F5NQL ,2020, East Coast - All Locations , 33 , 147.90 , 131.00 , Female ," $6,395.63 ",0, No 
+ F6rVc ,2020, East Coast - All Locations , 31 , 173.50 , 209.00 ,," $9,810.07 ",2, No 
+ F706b ,2020, California - All Locations , 33 , 163.80 , 202.00 , Female ," $3,898.22 ",1, No 
+ F72x4 ,2020, Miami Sales Office , 49 , 167.50 , 132.00 , Female ," $6,266.16 ",0, No 
+ F7N33 ,2020, Arkansas Plant , 41 , 155.40 , 208.00 , Female ," $17,714.38 ",2, No 
+ F7YY2 ,2020, Arkansas Plant , 39 , 170.60 , 174.00 , Male ," $21,377.92 ",0, Yes 
+ F7Z73 ,2020, Miami Sales Office , 43 , 157.30 , 147.00 , Female ," $15,083.38 ",2, No 
+ F87rX ,2020, Arkansas Plant , 37 , 160.30 , 205.00 , Male ," $6,902.17 ",1, No 
+ F8a8n ,2020, Arkansas Plant , 38 , 186.90 , 274.00 , Female ," $29,655.95 ",1, Yes 
+ F99EW ,2020, Arkansas Plant , 39 , 165.80 , 181.00 , Female ," $3,916.25 ",1, No 
+ F9uZk ,2020, Arkansas Plant , 42 , 158.00 , 155.00 , Male ," $5,198.91 ",0, No 
+ FatP1 ,2020, Miami Sales Office , 26 , 160.70 , 209.00 , Female ," $1,926.29 ",0, No 
+ FaU6T ,2020, East Coast - All Locations , 45 , 159.20 , 158.00 , Female ," $9,822.40 ",1, No 
+ FavuP ,2020, Miami Sales Office , 31 , 163.70 , 129.00 , Male ," $1,934.67 ",0, No 
+ Fb1Yt ,2020, Arkansas Plant , 38 , 166.50 , 182.00 , Female ," $3,527.80 ",2, No 
+ Fb258 ,2020, East Coast - All Locations , 25 , 159.30 , 190.00 , Male ," $2,737.17 ",2, No 
+ Fb2ZA ,2020, East Coast - All Locations , 38 , 189.20 , 239.00 , Male ," $24,338.57 ",1, Yes 
+ Fb448 ,2020, East Coast - All Locations , 38 , 179.80 , 184.00 , Male ," $4,102.83 ",0, No 
+ Fb66c ,2020, East Coast - All Locations , 42 , 156.70 , 159.00 , Female ," $7,595.00 ",2, No 
+ Fbg98 ,2020, California - All Locations , 36 , 162.60 , 158.00 , Female ," $4,160.28 ",1, No 
+ FbmvL ,2020, East Coast - All Locations , 25 , 165.60 , 132.00 , Male , $887.13 ,0, No 
+ Fc0Yr ,2020, East Coast - All Locations , 28 , 157.10 , 154.00 , Female ," $2,262.60 ",2, No 
+ FcbEy ,2020, California - All Locations , 24 , 158.70 , 218.00 , Male ," $2,591.85 ",0, No 
+ FcE4g ,2020, California - All Locations , 35 , 174.50 , 201.00 , Male ," $24,680.78 ",3, No 
+ FchvJ ,2020, California - All Locations , 23 , 162.60 , 213.00 , Male ," $2,779.91 ",0, No 
+ Fckb5 ,2020, California - All Locations , 31 , 178.40 , 241.00 , Female ," $6,229.89 ",2, No 
+ FcpAR ,2020, Miami Sales Office , 42 , 181.50 , 221.00 , Female ," $9,225.54 ",2, No 
+ Fcqy0 ,2020, Arkansas Plant , 38 , 156.80 , 126.00 , Male ," $5,556.50 ",1, No 
+ FcTDh ,2020, Miami Sales Office , 23 , 167.70 , 238.00 , Female ," $3,329.38 ",0, No 
+ FcYEE ,2020, East Coast - All Locations , 55 , 172.90 , 187.00 , Male ," $9,428.83 ",0, No 
+ Fd94F ,2020, Arkansas Plant , 38 , 175.50 , 135.00 , Male ," $4,686.21 ",1, No 
+ FdeZD ,2020, Arkansas Plant , 43 , 157.70 , 119.00 , Male ," $3,946.94 ",1, No 
+ Fdm45 ,2020, East Coast - All Locations , 29 , 181.90 , 226.00 , Male ," $1,886.90 ",0, No 
+ FdPYc ,2020, East Coast - All Locations , 32 , 177.70 , 275.00 , Male ," $5,326.16 ",0, No 
+ Fdr1Q ,2020, Miami Sales Office , 29 , 163.40 , 169.00 , Male ," $8,360.22 ",2, No 
+ Fe229 ,2020, Miami Sales Office , 32 , 177.40 , 179.00 , Female ," $2,100.61 ",1, No 
+ Fe4M1 ,2020, East Coast - All Locations , 45 , 168.60 , 231.00 , Male ," $10,972.72 ",2, No 
+ Fe91a ,2020, East Coast - All Locations , 41 , 177.30 , 233.00 , Female ," $9,770.36 ",2, No 
+ FecK1 ,2020, Arkansas Plant , 40 , 169.60 , 217.00 , Female ," $12,812.03 ",1, No 
+ FewgW ,2020, Arkansas Plant , 32 , 165.00 , 223.00 , Male ," $6,004.48 ",3, No 
+ FfWx0 ,2020, East Coast - All Locations , 30 , 179.10 , 296.00 , Female ," $11,450.03 ",2, No 
+ FfYyS ,2020, Arkansas Plant , 44 , 172.30 , 225.00 , Male ," $37,501.51 ",0, Yes 
+ Fg70E ,2020, Arkansas Plant , 31 , 151.80 , 238.00 , Female ," $4,833.23 ",0, No 
+ Fgju9 ,2020, Arkansas Plant , 47 , 167.70 , 160.00 , Male ," $5,341.02 ",1, No 
+ Fgm5Y ,2020, East Coast - All Locations , 40 , 167.60 , 182.00 , Female ," $4,887.00 ",2, No 
+ FhAE8 ,2020, Arkansas Plant , 42 , 171.30 , 187.00 , Male ," $13,337.99 ",1, Yes 
+ FhGbU ,2020, East Coast - All Locations , 25 , 180.00 , 181.00 , Male ," $9,579.60 ",1, Yes 
+ FhLLM ,2020, Arkansas Plant , 36 , 172.80 , 172.00 , Female ," $2,883.87 ",0, No 
+ Fhrx2 ,2020, East Coast - All Locations , 32 , 163.80 , 181.00 , Male ," $2,878.50 ",0, No 
+ FhYhW ,2020, East Coast - All Locations , 32 , 176.30 , 261.00 , Female ," $16,163.09 ",1, No 
+ Fj659 ,2020, Arkansas Plant , 39 , 175.10 , 176.00 , Male ," $3,824.57 ",2, No 
+ FjfmW ,2020, Miami Sales Office , 24 , 149.80 , 164.00 , Male ," $1,287.77 ",0, No 
+ FjtX9 ,2020, Arkansas Plant , 37 , 185.70 , 134.00 , Male ," $3,390.24 ",2, No 
+ FjvYS ,2020, Arkansas Plant , 42 , 171.60 , 160.00 , Male ," $3,736.56 ",1, No 
+ Fk71F ,2020, East Coast - All Locations , 34 , 165.90 , 190.00 , Female ," $6,005.37 ",1, No 
+ Fk9Ea ,2020, East Coast - All Locations , 38 , 170.10 , 205.00 , Female ," $8,141.14 ",1, No 
+ FkSQ4 ,2020, East Coast - All Locations , 48 , 175.40 , 215.00 , Male ," $41,425.62 ",1, Yes 
+ FkZzQ ,2020, Arkansas Plant , 39 , 179.20 , 214.00 , Male ," $25,378.61 ",1, Yes 
+ FP14a ,2020, Miami Sales Office , 38 , 152.50 , 175.00 , Female ," $8,782.18 ",1, No 
+ FP62s ,2020, Arkansas Plant , 45 , 158.20 , 191.00 , Male ," $7,293.94 ",2, No 
+ FQ39X ,2020, Arkansas Plant , 40 , 167.70 , 107.00 , Female ," $6,883.70 ",0, No 
+ FR18T ,2020, East Coast - All Locations , 26 , 170.10 , 124.00 , Male ," $1,187.91 ",0, No 
+ FR45K ,2020, East Coast - All Locations , 33 , 165.90 , 196.00 , Male ," $3,240.91 ",1, No 
+ FR68X ,2020, East Coast - All Locations , 30 , 162.40 , 202.00 , Female ," $5,297.94 ",1, No 
+ FS68L ,2020, East Coast - All Locations , 39 , 195.80 , 261.00 , Male ," $29,534.73 ",4, Yes 
+ FS86Q ,2020, Miami Sales Office , 25 , 180.40 , 189.00 , Female ," $1,738.53 ",2, No 
+ FT18N ,2020, Miami Sales Office , 40 , 181.30 , 266.00 , Male ," $8,777.37 ",1, No 
+ FT69V ,2020, Miami Sales Office , 40 , 160.30 , 157.00 , Female ," $6,692.90 ",1, No 
+ FT87D ,2020, California - All Locations , 22 , 177.80 , 173.00 , Male ," $20,726.78 ",1, No 
+ FV26E ,2020, California - All Locations , 31 , 165.00 , 104.00 , Male ," $20,191.91 ",0, No 
+ FV51M ,2020, Arkansas Plant , 45 , 158.50 , 229.00 , Male ," $6,389.09 ",1, No 
+ FV57R ,2020, East Coast - All Locations , 30 , 174.80 , 227.00 , Male ," $6,655.15 ",2, Yes 
+ FV86Q ,2020, East Coast - All Locations , 34 , 159.40 , 153.00 , Female ," $3,918.21 ",2, No 
+ FV92E ,2020, East Coast - All Locations , 32 , 163.60 , 162.00 , Female ," $2,062.35 ",0, No 
+ FW24E ,2020, East Coast - All Locations , 24 , 158.30 , 190.00 , Male ," $14,140.64 ",1, No 
+ FW75S ,2020, East Coast - All Locations , 22 , 177.50 , 170.00 , Male ," $1,090.10 ",1, No 
+ FX17E ,2020, Miami Sales Office , 30 , 1.61 , 171.00 , Male ," $18,932.31 ",0, Yes 
+ FX80W ,2020, Arkansas Plant , 42 , 161.30 , 239.00 , Male ," $6,077.54 ",1, No 
+ FX91H ,2020, East Coast - All Locations , 45 , 156.00 , 177.00 , Female ," $7,497.68 ",1, No 
+ Fz5Xv ,2020, East Coast - All Locations , 34 , 163.30 , 126.00 , Male ," $5,903.83 ",1, No 
+ FZ94H ,2020, California - All Locations , 41 , 165.70 , 183.00 , Male ," $14,132.97 ",2, No 
+ G09B4 ,2020, Miami Sales Office , 41 , 158.70 , 153.00 , Male ," $6,696.76 ",0, No 
+ G0NHf ,2020, East Coast - All Locations , 19 , 170.20 , 190.00 , Male , $815.92 ,0, No 
+ G0sjS ,2020, Arkansas Plant , 25 , 168.00 , 184.00 , Male ," $12,930.51 ",0, Yes 
+ G1Kra ,2020, East Coast - All Locations , 41 , 165.40 , 155.00 , Female ," $5,019.88 ",2, No 
+ G23WY ,2020, Arkansas Plant , 53 , 175.10 , 266.00 , Male ," $33,745.50 ",0, Yes 
+ G297c ,2020, East Coast - All Locations , 25 , 172.60 , 169.00 , Male ," $1,066.37 ",0, No 
+ G2kB4 ,2020, East Coast - All Locations , 31 , 166.80 , 205.00 , Female ," $3,116.26 ",1, No 
+ G3fVe ,2020, Miami Sales Office , 42 , 161.00 , 170.00 , Male ," $4,682.30 ",1, No 
+ G3hMS ,2020, California - All Locations , 30 , 161.20 , 236.00 , Female ," $6,706.30 ",2, No 
+ G3w6d ,2020, East Coast - All Locations , 27 , 174.00 , 185.00 , Female , $934.96 ,0, No 
+ G58d9 ,2020, Arkansas Plant , 39 , 167.10 , 164.00 , Female ," $5,420.61 ",1, No 
+ G5K0P ,2020, Arkansas Plant , 37 , 174.80 , 189.00 , Female ," $6,880.10 ",2, Yes 
+ G66kg ,2020, East Coast - All Locations , 31 , 168.30 , 201.00 , Female ," $4,198.03 ",0, No 
+ G6JaV ,2020, East Coast - All Locations , 34 , 157.40 , 214.00 , Male ," $4,746.87 ",0, No 
+ G6N5a ,2020, East Coast - All Locations , 38 , 161.10 , 172.00 , Male ," $4,829.07 ",2, No 
+ G6pen ,2020, East Coast - All Locations , 46 , 180.50 , 226.00 , Male ," $8,936.48 ",0, No 
+ G74Lh ,2020, East Coast - All Locations , 26 , 166.50 , 210.00 , Male ," $1,996.62 ",0, No 
+ G7cr0 ,2020, Arkansas Plant , 35 , 147.30 , 153.00 , Female ," $5,193.15 ",1, No 
+ G7GE8 ,2020, California - All Locations , 40 , 177.90 , 220.00 , Female ," $45,951.63 ",2, No 
+ G8D0w ,2020, East Coast - All Locations , 47 , 187.60 , 310.00 , Female ," $11,179.66 ",1, No 
+ G8P2y ,2020, East Coast - All Locations , 34 , 165.90 , 231.00 , Female ," $5,879.97 ",0, No 
+ G8SL2 ,2020, Arkansas Plant , 40 , 178.60 , 273.00 , Male ," $7,923.63 ",1, No 
+ G8WQ2 ,2020, Arkansas Plant , 41 , 186.30 , 129.00 , Male ," $2,496.43 ",0, No 
+ G9f22 ,2020, Arkansas Plant , 45 , 172.40 , 233.00 , Female ," $8,238.19 ",0, No 
+ G9vWM ,2020, Miami Sales Office , 27 , 170.80 , 200.00 , Female ," $1,815.30 ",0, No 
+ Ga1pL ,2020, Miami Sales Office , 32 , 181.10 , 256.00 , Female ," $5,813.89 ",0, No 
+ Ga5pa ,2020, Arkansas Plant , 40 , 138.70 , 102.00 , Male ," $3,635.15 ",0, No 
+ Gab0n ,2020, Arkansas Plant , 35 , 157.00 , 154.00 , Female ," $3,979.40 ",0, No 
+ GahjC ,2020, East Coast - All Locations , 28 , 171.00 , 261.00 , Male ," $17,409.55 ",0, No 
+ GaWMG ,2020, Arkansas Plant , 30 , 148.80 , 176.00 , Male ," $5,843.03 ",0, No 
+ Gax2s ,2020, Arkansas Plant , 39 , 186.60 , 190.00 , Male ," $8,718.47 ",1, No 
+ GaZkU ,2020, East Coast - All Locations , 25 , 160.20 , 150.00 , Female ," $1,337.55 ",0, No 
+ Gb4SD ,2020, Arkansas Plant , 40 , 159.20 , 170.00 , Male ," $8,464.68 ",1, No 
+ Gbh3P ,2020, Miami Sales Office , 26 , 172.60 , 145.00 , Male ," $2,403.26 ",1, No 
+ GcbMs ,2020, East Coast - All Locations , 43 , 161.10 , 153.00 , Female ," $6,319.26 ",2, No 
+ GcpX3 ,2020, Miami Sales Office , 39 , 160.60 , 158.00 , Male ," $5,052.52 ",2, No 
+ Gcryp ,2020, Miami Sales Office , 40 , 171.10 , 140.00 , Male ," $6,054.84 ",0, No 
+ Gd5N4 ,2020, East Coast - All Locations , 32 , 168.50 , 206.00 , Male ," $3,191.01 ",1, No 
+ Gd9h2 ,2020, Arkansas Plant , 25 , 169.00 , 157.00 , Male , $908.85 ,2, No 
+ GdjBS ,2020, East Coast - All Locations , 25 , 172.10 , 252.00 , Female ," $13,257.98 ",0, Yes 
+ Gdmvd ,2020, East Coast - All Locations , 32 , 177.70 , 297.00 , Male ," $5,604.49 ",2, No 
+ GdQ2e ,2020, Arkansas Plant , 34 , 183.60 , 248.00 , Female ," $4,467.58 ",2, No 
+ GdY7G ,2020, East Coast - All Locations , 31 , 165.60 , 222.00 , Female ," $4,188.39 ",0, No 
+ Ge4yT ,2020, California - All Locations , 56 , 183.40 , 215.00 , Female ," $15,183.69 ",1, No 
+ Ge8Ew ,2020, California - All Locations , 24 , 156.40 , 167.00 , Male ," $2,081.01 ",0, No 
+ Gee2S ,2020, East Coast - All Locations , 27 , 171.40 , 209.00 , Male ," $8,696.43 ",0, No 
+ GemQZ ,2020, California - All Locations , 30 , 180.00 , 214.00 , Male ," $3,003.58 ",1, No 
+ Gev94 ,2020, Arkansas Plant , 34 , 177.80 , 234.00 , Male ," $29,432.05 ",0, Yes 
+ Gf7dW ,2020, Arkansas Plant , 41 , 165.30 , 278.00 , Male ," $7,929.94 ",2, No 
+ GfKRy ,2020, Arkansas Plant , 43 , 168.30 , 186.00 , Female ," $5,011.35 ",2, No 
+ GfUuh ,2020, East Coast - All Locations , 29 , 162.90 , 192.00 , Female ," $2,917.11 ",1, No 
+ Gfv0L ,2020, California - All Locations , 28 , 162.40 , 234.00 , Female ," $5,029.28 ",0, No 
+ Gfwv0 ,2020, East Coast - All Locations , 34 , 165.80 , 261.00 , Male ," $5,523.12 ",1, No 
+ GfzY6 ,2020, East Coast - All Locations , 30 , 176.50 , 210.00 , Male ," $4,609.83 ",0, No 
+ Gg2Xq ,2020, Arkansas Plant , 44 , 168.40 , 196.00 , Female ," $7,346.92 ",1, No 
+ GgNWv ,2020, Miami Sales Office , 22 , 184.60 , 264.00 , Male ," $8,706.22 ",1, Yes 
+ Ghc9T ,2020, Arkansas Plant , 53 , 158.20 , 183.00 , Female ," $14,559.39 ",2, No 
+ GhkAT ,2020, East Coast - All Locations , 31 , 165.90 , 157.00 , Female ," $3,198.86 ",2, No 
+ GjCV0 ,2020, East Coast - All Locations , 41 , 165.50 , 122.00 , Female ," $14,701.98 ",1, No 
+ Gjd3s ,2020, Arkansas Plant , 54 , 173.90 , 219.00 , Female ," $26,956.66 ",1, Yes 
+ Gjgcu ,2020, Arkansas Plant , 41 , 177.80 , 197.00 , Male ," $22,948.62 ",2, Yes 
+ GjNKv ,2020, East Coast - All Locations , 32 , 154.30 , 116.00 , Male ," $1,931.30 ",0, No 
+ GjQAR ,2020, Arkansas Plant , 39 , 175.90 , 197.00 , Female ," $6,669.78 ",1, No 
+ Gjr9s ,2020, East Coast - All Locations , 43 , 177.00 , 223.00 , Male ," $40,638.68 ",1, No 
+ GjsWx ,2020, California - All Locations , 30 , 169.30 , 147.00 , Female ," $5,115.71 ",1, No 
+ Gk7Ds ,2020, Arkansas Plant , 43 , 177.00 , 293.00 , Male ," $10,020.57 ",0, No 
+ GkLjZ ,2020, Arkansas Plant , 25 , 178.80 , 136.00 , Male ," $7,688.88 ",0, Yes 
+ GP21T ,2020, Miami Sales Office , 38 , 155.80 , 195.00 , Male ," $7,710.28 ",0, No 
+ GP52J ,2020, Arkansas Plant , 48 , 169.80 , 203.00 , Female ," $13,602.78 ",1, No 
+ GQ21Q ,2020, California - All Locations , 32 , 156.40 , 174.00 , Female ," $5,908.06 ",2, No 
+ GQ46P ,2020, Miami Sales Office , 22 , 161.30 , 151.00 , Male , $765.56 ,0, No 
+ GR70F ,2020, East Coast - All Locations , 37 , 158.20 , 130.00 , Male ," $2,800.86 ",4, No 
+ GT15H ,2020, California - All Locations , 27 , 159.60 , 173.00 , Male ," $25,075.37 ",0, No 
+ GT20W ,2020, Arkansas Plant , 38 , 171.70 , 132.00 , Male ," $4,559.72 ",2, No 
+ GT22Z ,2020, East Coast - All Locations , 38 , 156.10 , 212.00 , Female ," $10,844.93 ",2, No 
+ GT51V ,2020, Arkansas Plant , 41 , 174.40 , 196.00 , Female ," $5,152.58 ",1, No 
+ GT57F ,2020, East Coast - All Locations , 34 , 180.00 , 241.00 , Female ," $4,092.20 ",1, No 
+ GT71Q ,2020, Arkansas Plant , 36 , 161.40 , 224.00 , Male ," $6,733.95 ",1, No 
+ GT77a ,2020, Arkansas Plant , 49 , 177.50 , 145.00 , Male ," $6,001.28 ",1, No 
+ GU54J ,2020, East Coast - All Locations , 36 , 173.30 , 204.00 , Male ," $7,960.55 ",1, No 
+ GV74B ,2020, Arkansas Plant , 44 , 175.10 , 279.00 , Male ," $17,096.83 ",0, No 
+ GV92R ,2020, California - All Locations , 22 , 163.10 , 125.00 , Male ," $1,332.48 ",1, No 
+ GW47Q ,2020, East Coast - All Locations , 47 , 173.40 , 183.00 , Female ," $8,372.15 ",1, Yes 
+ GW93Q ,2020, Arkansas Plant , 52 , 156.20 , 142.00 , Male ," $7,745.40 ",0, No 
+ GX12F ,2020, East Coast - All Locations , 39 , 161.30 , 147.00 , Male ," $4,586.61 ",1, No 
+ GX38Q ,2020, Miami Sales Office , 29 , 172.10 , 181.00 , Female ," $8,240.18 ",2, No 
+ GX51K ,2020, Miami Sales Office , 33 , 179.50 , 166.00 , Female ," $2,675.97 ",1, No 
+ GX59T ,2020, Arkansas Plant , 41 , 159.90 , 152.00 , Male ," $4,119.42 ",2, No 
+ GX77R ,2020, East Coast - All Locations , 27 , 159.00 , 166.00 , Male ," $1,022.85 ",0, No 
+ Gz523 ,2020, Arkansas Plant , 32 , 167.00 , 168.00 , Male ," $7,940.98 ",0, Yes 
+ GZ67Y ,2020, Arkansas Plant , 45 , 166.60 , 206.00 , Male ," $12,692.50 ",1, No 
+ GZ71A ,2020, East Coast - All Locations , 31 , 180.30 , 182.00 , Female ," $1,290.93 ",0, No 
+ Gz9Sf ,2020, East Coast - All Locations , 31 , 162.40 , 177.00 , Male ," $2,369.31 ",0, No 
+ Gzar1 ,2020, California - All Locations , 29 , 172.50 , 186.00 , Male ," $2,349.70 ",0, No 
+ GzB24 ,2020, East Coast - All Locations , 32 , 152.30 , 127.00 , Female ," $1,834.30 ",0, No 
+ GzZLD ,2020, Arkansas Plant , 40 , 166.60 , 216.00 , Male ," $8,209.05 ",1, No 
+ H02Ka ,2020, East Coast - All Locations , 27 , 186.80 , 287.00 , Male ," $2,853.98 ",0, No 
+ H0569 ,2020, Miami Sales Office , 25 , 170.60 , 238.00 , Female ," $11,823.64 ",0, Yes 
+ H0H65 ,2020, Arkansas Plant , 38 , 168.20 , 196.00 , Male ," $9,335.79 ",0, No 
+ H20b6 ,2020, East Coast - All Locations , 30 , 168.30 , 178.00 , Male ," $2,719.46 ",1, No 
+ H21B8 ,2020, East Coast - All Locations , 28 , 162.80 , 189.00 , Male ," $2,138.34 ",0, No 
+ H22AB ,2020, Arkansas Plant , 45 , 169.00 , 251.00 , Female ," $36,772.92 ",1, Yes 
+ H2BQM ,2020, Arkansas Plant , 38 , 172.50 , 202.00 , Male ," $9,410.02 ",1, No 
+ H2x0u ,2020, Miami Sales Office , 41 , 173.00 , 235.00 , Male ," $29,492.01 ",1, Yes 
+ H351d ,2020, East Coast - All Locations , 30 , 163.90 , 128.00 , Male ," $3,367.15 ",1, No 
+ H37jH ,2020, Miami Sales Office , 21 , 161.50 , 189.00 , Female ," $1,047.94 ",0, No 
+ H3S1T ,2020, East Coast - All Locations , 41 , 172.40 , 167.00 , Female ," $4,495.59 ",1, No 
+ H3snc ,2020, Arkansas Plant , 24 , 171.90 , 254.00 , Male ," $14,792.44 ",2, No 
+ H3YZE ,2020, Arkansas Plant , 40 , 186.60 , 194.00 , Male ," $5,206.75 ",1, No 
+ H48K8 ,2020, Arkansas Plant , 34 , 174.60 , 191.00 , Male ," $13,633.18 ",0, Yes 
+ H5vwY ,2020, Arkansas Plant , 42 , 155.50 , 151.00 , Male ," $5,043.59 ",0, No 
+ H62T6 ,2020, East Coast - All Locations , 30 , 152.90 , 169.00 , Female ," $5,083.84 ",0, No 
+ H6f01 ,2020, Miami Sales Office , 30 , 173.90 , 187.00 , Female ," $3,260.23 ",1, No 
+ H6wYV ,2020, Miami Sales Office , 26 , 187.60 , 361.00 , Male ," $1,876.16 ",0, No 
+ H831m ,2020, East Coast - All Locations , 40 , 169.70 , 203.00 , Male ," $29,189.03 ",2, Yes 
+ H8Q0Y ,2020, East Coast - All Locations , 42 , 178.90 , 223.00 , Male ," $6,273.09 ",2, No 
+ H8xab ,2020, East Coast - All Locations , 41 , 166.30 , 241.00 , Male ," $8,913.95 ",1, No 
+ H8YP3 ,2020, East Coast - All Locations , 38 , 180.40 , 253.00 , Male ," $11,386.95 ",0, No 
+ H9QVG ,2020, East Coast - All Locations , 34 , 162.20 , 185.00 , Female ," $3,801.04 ",0, No 
+ H9zjQ ,2020, Miami Sales Office , 28 , 146.90 , 151.00 , Male ," $2,128.02 ",0, No 
+ Ha292 ,2020, Arkansas Plant , 24 , 176.90 , 164.00 , Male , $449.51 ,0, No 
+ Ha2k7 ,2020, Arkansas Plant , 36 , 155.00 , 154.00 , Male ," $4,077.77 ",1, No 
+ HaG6w ,2020, East Coast - All Locations , 24 , 163.00 , 189.00 , Female ," $1,378.93 ",0, No 
+ HaSAw ,2020, East Coast - All Locations , 48 , 162.40 , 116.00 , Male ," $5,911.47 ",1, No 
+ HaYsp ,2020, Miami Sales Office , 39 , 158.90 , 135.00 , Male ," $5,447.83 ",1, No 
+ Hb7R4 ,2020, East Coast - All Locations , 34 , 172.50 , 196.00 , Male ," $3,377.39 ",1, No 
+ HbbhL ,2020, Arkansas Plant , 47 , 180.30 , 322.00 , Male ," $18,776.11 ",1, Yes 
+ Hbj0L ,2020, Miami Sales Office , 21 , 190.40 , 272.00 , Male , $770.25 ,0, No 
+ Hbnzv ,2020, East Coast - All Locations , 21 , 160.50 , 166.00 , Female , $918.57 ,0, No 
+ Hbp64 ,2020, Miami Sales Office , 47 , 161.80 , 166.00 , Female ," $5,994.72 ",0, No 
+ Hc2SA ,2020, Arkansas Plant , 38 , 157.80 , 177.00 , Female ," $9,673.20 ",1, No 
+ Hc5gE ,2020, Arkansas Plant , 51 , 166.00 , 148.00 , Male ," $5,811.40 ",1, No 
+ HccY2 ,2020, Arkansas Plant , 48 , 177.10 , 217.00 , Female ," $13,229.20 ",2, No 
+ HcLub ,2020, East Coast - All Locations , 24 , 160.10 , 169.00 , Male ," $10,864.16 ",0, No 
+ HcSY3 ,2020, Arkansas Plant , 41 , 179.50 , 218.00 , Male ," $6,473.59 ",0, No 
+ HcUm8 ,2020, Miami Sales Office , 28 , 181.70 , 185.00 , Male , $865.85 ,0, No 
+ HcuRC ,2020, East Coast - All Locations , 48 , 162.70 , 179.00 , Male ," $8,730.64 ",0, Yes 
+ HcX2u ,2020, Arkansas Plant , 38 , 166.90 , 170.00 , Male ," $4,301.24 ",1, No 
+ HcY45 ,2020, East Coast - All Locations , 31 , 168.10 , 228.00 , Female ," $7,615.10 ",1, No 
+ HdBTY ,2020, East Coast - All Locations , 42 , 175.50 , 166.00 , Male ," $8,448.83 ",1, Yes 
+ HeHmA ,2020, East Coast - All Locations , 22 , 176.10 , 235.00 , Male ," $19,699.33 ",0, Yes 
+ Hf2Bk ,2020, Arkansas Plant , 41 , 179.00 , 255.00 , Female ," $11,283.30 ",1, No 
+ HfLa7 ,2020, California - All Locations , 39 , 156.40 , 169.00 , Male ," $8,196.83 ",1, No 
+ HfP2r ,2020, Arkansas Plant , 41 , 180.00 , 183.00 , Male ," $11,343.64 ",2, Yes 
+ Hg026 ,2020, East Coast - All Locations , 48 , 163.80 , 226.00 , Male ," $11,863.82 ",1, No 
+ Hg7YW ,2020, Arkansas Plant , 55 , 164.70 , 208.00 , Male ," $10,866.73 ",2, No 
+ HgLL2 ,2020, California - All Locations , 25 , 153.30 , 150.00 , Male ," $12,478.16 ",2, No 
+ Hgq0b ,2020, Arkansas Plant , 44 , 166.70 , 154.00 , Female ," $18,910.76 ",1, Yes 
+ Hh82d ,2020, Arkansas Plant , 45 , 156.00 , 169.00 , Female ," $7,496.87 ",1, No 
+ Hh82L ,2020, Arkansas Plant , 31 , 169.70 , 185.00 , Female ," $2,987.02 ",0, No 
+ HhtxA ,2020, Miami Sales Office , 45 , 158.90 , 189.00 , Male ," $5,800.80 ",1, No 
+ HhVyR ,2020, Arkansas Plant , 39 , 159.80 , 175.00 , Male ," $6,359.71 ",1, No 
+ Hj2k5 ,2020, East Coast - All Locations , 27 , 163.70 , 234.00 , Female ," $2,816.63 ",0, No 
+ Hj7Y2 ,2020, Miami Sales Office , 31 , 169.70 , 234.00 , Male ," $1,770.54 ",0, No 
+ HjFbR ,2020, California - All Locations , 26 , 167.50 , 142.00 , Male ," $2,447.34 ",2, No 
+ Hjj2g ,2020, East Coast - All Locations , 23 , 167.00 , 248.00 , Female ," $1,941.07 ",0, No 
+ HjmL9 ,2020, Arkansas Plant , 31 , 161.00 , 144.00 , Male ," $2,944.98 ",0, No 
+ HjwcE ,2020, East Coast - All Locations , 24 , 165.80 , 211.00 , Male ," $1,428.18 ",0, No 
+ HjyQY ,2020, Arkansas Plant , 37 , 163.00 , 216.00 , Male ," $5,376.05 ",2, No 
+ HjYre ,2020, Arkansas Plant , 48 , 170.00 , 117.00 , Female ," $5,476.10 ",1, No 
+ Hk72f ,2020, Arkansas Plant , 44 , 183.30 , 189.00 , Female ," $7,768.38 ",1, No 
+ Hkcmg ,2020, East Coast - All Locations , 49 , 158.20 , 145.00 , Male ," $8,859.84 ",2, No 
+ HkhFZ ,2020, East Coast - All Locations , 44 , 152.30 , 123.00 , Female ," $7,711.27 ",1, No 
+ Hkjpt ,2020, Arkansas Plant , 36 , 166.80 , 175.00 , Male ," $6,067.72 ",2, No 
+ HkRWt ,2020, East Coast - All Locations , 44 , 167.10 , 166.00 , Female ," $8,112.30 ",1, No 
+ HkXq6 ,2020, Miami Sales Office , 25 , 179.80 , 131.00 , Male ," $2,274.86 ",1, No 
+ HP1Q ,2020, Miami Sales Office , 57 , 165.20 , 157.00 , Male ," $8,241.01 ",2, No 
+ HP23K ,2020, Miami Sales Office , 31 , 173.80 , 215.00 , Female ," $4,479.60 ",1, No 
+ HP50K ,2020, East Coast - All Locations , 34 , 176.10 , 186.00 , Male ," $7,001.03 ",0, Yes 
+ HP62R ,2020, Arkansas Plant , 38 , 179.20 , 186.00 , Male ," $10,331.74 ",0, No 
+ HQ29U ,2020, Arkansas Plant , 40 , 160.50 , 191.00 , Male ," $8,482.55 ",1, No 
+ HQ67W ,2020, Arkansas Plant , 46 , 161.80 , 167.00 , Male ," $5,566.97 ",0, No 
+ HQ75R ,2020, California - All Locations , 24 , 163.30 , 127.00 , Female ," $1,576.67 ",0, No 
+ HQ76Y ,2020, Miami Sales Office , 28 , 169.30 , 160.00 , Male , $862.27 ,1, No 
+ HR59H ,2020, Miami Sales Office , 30 , 161.20 , 145.00 , Female ," $2,286.61 ",0, No 
+ HR87s ,2020, East Coast - All Locations , 28 , 154.00 , 146.00 , Male ," $1,957.77 ",0, No 
+ HS31E ,2020, Arkansas Plant , 35 , 185.80 , 270.00 , Female ," $4,884.49 ",1, No 
+ HS58L ,2020, Arkansas Plant , 48 , 166.30 , 154.00 , Female ," $7,387.80 ",1, No 
+ HT25N ,2020, East Coast - All Locations , 22 , 159.30 , 126.00 , Female ," $1,258.78 ",0, No 
+ HT2H ,2020, East Coast - All Locations , 29 , 156.90 , 132.00 , Male ," $2,787.13 ",0, No 
+ HT82Y ,2020, Arkansas Plant , 41 , 157.70 , 189.00 , Male ," $6,518.08 ",1, No 
+ HU54B ,2020, Arkansas Plant , 43 , 151.30 , 183.00 , Female ," $8,466.13 ",1, No 
+ HW73W ,2020, Arkansas Plant , 37 , 164.50 , 165.00 , Male ," $6,523.63 ",0, No 
+ HW74C ,2020, Miami Sales Office , 24 , 182.80 , 179.00 , Female , $741.85 ,0, No 
+ HW83T ,2020, East Coast - All Locations , 33 , 180.70 , 289.00 , Male ," $14,349.25 ",1, Yes 
+ HX21Y ,2020, Arkansas Plant , 39 , 166.70 , 203.00 , Female ," $22,612.79 ",1, No 
+ HX28X ,2020, Arkansas Plant , 26 , 167.60 , 213.00 , Male ," $2,810.39 ",2, No 
+ HX96D ,2020, East Coast - All Locations , 39 , 182.50 , 210.00 , Female ," $5,227.56 ",1, No 
+ HY58a ,2020, Arkansas Plant , 25 , 170.70 , 176.00 , Male ," $2,279.45 ",1, No 
+ HY87E ,2020, East Coast - All Locations , 26 , 159.30 , 223.00 , Male ," $2,615.52 ",0, No 
+ Hz0R7 ,2020, California - All Locations , 47 , 173.80 , 316.00 , Male ," $9,257.30 ",0, No 
+ Hz1dj ,2020, Arkansas Plant , 43 , 160.90 , 218.00 , Male ," $6,327.43 ",1, No 
+ HZ49T ,2020, Arkansas Plant , 49 , 153.30 , 175.00 , Female ," $11,665.27 ",0, No 
+ HZ99Z ,2020, East Coast - All Locations , 33 , 170.50 , 186.00 , Female ," $3,477.28 ",4, No 
+ Hzj3c ,2020, Arkansas Plant , 43 , 184.50 , 205.00 , Male ," $16,117.96 ",1, Yes 
+ HzR7g ,2020, California - All Locations , 23 , 188.10 , 305.00 , Male ," $2,730.67 ",0, No 
+ HzYne ,2020, California - All Locations , 27 , 176.80 , 219.00 , Female ," $13,865.15 ",0, No 
+ J1XmF ,2020, Miami Sales Office , 27 , 176.80 , 183.00 , Male ," $1,159.73 ",0, No 
+ J2neN ,2020, East Coast - All Locations , 33 , 155.70 , 147.00 , Female ," $2,102.37 ",1, No 
+ J46Y2 ,2020, Arkansas Plant , 57 , 158.30 , 143.00 , Male ," $6,859.70 ",0, No 
+ J4e62 ,2020, East Coast - All Locations , 29 , 163.60 , 140.00 , Male ," $4,728.58 ",0, Yes 
+ J4xES ,2020, Arkansas Plant , 49 , 164.90 , 268.00 , Male ," $9,795.70 ",0, No 
+ J4YB1 ,2020, Arkansas Plant , 48 , 162.10 , 190.00 , Male ," $22,276.30 ",1, No 
+ J4ygx ,2020, California - All Locations , 25 , 190.70 , 202.00 , Male ," $1,509.15 ",1, No 
+ J73gG ,2020, East Coast - All Locations , 20 , 188.80 , 255.00 , Female ," $1,067.49 ",0, No 
+ J7uW2 ,2020, East Coast - All Locations , 33 , 179.30 , 229.00 , Female ," $42,577.86 ",1, Yes 
+ J81Zd ,2020, Arkansas Plant , 41 , 162.80 , 192.00 , Female ," $41,200.69 ",1, Yes 
+ J8dX6 ,2020, East Coast - All Locations , 27 , 158.60 , 164.00 , Female ," $1,706.01 ",0, No 
+ J96U1 ,2020, Arkansas Plant , 35 , 159.00 , 193.00 , Male ," $14,083.30 ",1, No 
+ J9a67 ,2020, Arkansas Plant , 26 , 177.10 , 154.00 , Female ," $6,126.30 ",2, Yes 
+ J9QVa ,2020, East Coast - All Locations , 32 , 165.10 , 151.00 , Male ," $3,395.22 ",1, No 
+ J9ugK ,2020, Arkansas Plant , 33 , 177.20 , 238.00 , Male ," $3,192.96 ",1, No 
+ JaGD2 ,2020, East Coast - All Locations , 24 , 183.70 , 233.00 , Female ," $1,284.93 ",0, No 
+ JaN0P ,2020, East Coast - All Locations , 38 , 183.20 , 249.00 , Female ," $11,181.80 ",1, No 
+ JaR47 ,2020, Miami Sales Office , 31 , 160.50 , 165.00 , Male ," $4,026.12 ",2, No 
+ Jat28 ,2020, Arkansas Plant , 38 , 160.10 , 195.00 , Male ," $7,324.79 ",5, No 
+ JaT51 ,2020, East Coast - All Locations , 41 , 184.30 , 188.00 , Female ," $5,570.19 ",2, No 
+ JaXh9 ,2020, Miami Sales Office , 27 , 168.90 , 210.00 , Male ," $1,426.64 ",1, No 
+ Jb5Z4 ,2020, East Coast - All Locations , 26 , 179.90 , 182.00 , Male ," $1,045.19 ",0, No 
+ Jbd8X ,2020, Arkansas Plant , 23 , 175.90 , 166.00 , Female ," $4,874.88 ",1, Yes 
+ JbQsv ,2020, East Coast - All Locations , 40 , 174.30 , 236.00 , Male ," $5,829.33 ",1, No 
+ JbSvY ,2020, California - All Locations , 25 , 157.50 , 138.00 , Male ," $1,880.56 ",1, No 
+ JcZd1 ,2020, Arkansas Plant , 44 , 178.40 , 239.00 , Male ," $15,078.63 ",1, Yes 
+ Jd1QL ,2020, East Coast - All Locations , 45 , 169.50 , 190.00 , Male ," $6,377.46 ",1, No 
+ Jdr2M ,2020, East Coast - All Locations , 41 , 176.50 , 217.00 , Female ," $5,335.37 ",1, No 
+ Jennk ,2020, Arkansas Plant , 19 , 173.50 , 279.00 , Male ," $10,958.79 ",1, Yes 
+ JeNnq ,2020, East Coast - All Locations , 33 , 183.70 , 269.00 , Female ," $13,579.49 ",0, Yes 
+ Jf5Sg ,2020, East Coast - All Locations , 26 , 159.10 , 167.00 , Male , $987.39 ,0, No 
+ JfCVN ,2020, East Coast - All Locations , 40 , 171.90 , 194.00 , Male ," $14,225.93 ",2, Yes 
+ Jfy24 ,2020, California - All Locations , 48 , 174.50 , 168.00 , Male ," $4,620.39 ",2, No 
+ Jg1UG ,2020, East Coast - All Locations , 42 , 164.90 , 203.00 , Female ," $10,728.99 ",2, No 
+ Jg3YH ,2020, Arkansas Plant , 40 , 169.80 , 209.00 , Male ," $21,259.19 ",2, No 
+ JgsLH ,2020, Arkansas Plant , 42 , 174.60 , 270.00 , Male ," $7,560.73 ",1, No 
+ JhHh9 ,2020, East Coast - All Locations , 31 , 173.90 , 273.00 , Female ," $19,957.93 ",2, Yes 
+ JhkGz ,2020, East Coast - All Locations , 31 , 154.90 , 193.00 , Male ," $4,599.06 ",1, No 
+ Jj93e ,2020, Miami Sales Office , 42 , 170.70 , 147.00 , Male ," $24,180.56 ",2, Yes 
+ JjNgq ,2020, Arkansas Plant , 29 , 166.80 , 216.00 , Male ," $27,648.05 ",2, Yes 
+ JjnWy ,2020, California - All Locations , 32 , 163.50 , 148.00 , Male ," $11,250.48 ",2, No 
+ JjzW4 ,2020, California - All Locations , 39 , 151.70 , 170.00 , Female ," $31,974.11 ",1, No 
+ Jk04d ,2020, East Coast - All Locations , 39 , 158.60 , 211.00 , Male ," $24,685.41 ",0, No 
+ Jk3Sd ,2020, Arkansas Plant , 41 , 174.80 , 147.00 , Male ," $4,217.10 ",1, No 
+ Jk71D ,2020, East Coast - All Locations , 26 , 153.10 , 163.00 , Female ," $1,841.10 ",0, No 
+ Jkfa5 ,2020, Arkansas Plant , 50 , 161.60 , 151.00 , Male ," $7,562.65 ",2, No 
+ JkUaN ,2020, Arkansas Plant , 36 , 175.30 , 221.00 , Male ," $31,575.67 ",1, Yes 
+ JP53a ,2020, Arkansas Plant , 40 , 154.60 , 245.00 , Male ," $10,706.84 ",1, No 
+ JQ31E ,2020, Arkansas Plant , 42 , 156.80 , 194.00 , Male ," $27,751.41 ",1, No 
+ JQ37T ,2020, East Coast - All Locations , 24 , 174.80 , 144.00 , Female ," $1,463.52 ",0, No 
+ JQ58A ,2020, Miami Sales Office , 26 , 168.10 , 167.00 , Male , $789.82 ,0, No 
+ JQ74K ,2020, East Coast - All Locations , 37 , 175.30 , 172.00 , Female ," $14,270.75 ",1, Yes 
+ JR21A ,2020, California - All Locations , 26 , 157.80 , 204.00 , Female ," $3,670.93 ",2, No 
+ JR72B ,2020, East Coast - All Locations , 42 , 184.70 , 350.00 , Male ," $9,547.38 ",1, No 
+ JR86D ,2020, Arkansas Plant , 38 , 166.90 , 170.00 , Male ," $4,024.47 ",2, No 
+ JS24W ,2020, East Coast - All Locations , 35 , 164.80 , 185.00 , Male ," $3,132.59 ",1, No 
+ JS38Z ,2020, East Coast - All Locations , 31 , 184.20 , 196.00 , Male , $994.66 ,0, No 
+ JS77L ,2020, Miami Sales Office , 22 , 170.80 , 214.00 , Male ," $16,735.15 ",0, No 
+ JT25D ,2020, Miami Sales Office , 34 , 173.60 , 219.00 , Male ," $3,716.69 ",1, No 
+ JT29F ,2020, East Coast - All Locations , 29 , 168.90 , 192.00 , Male ," $2,204.35 ",1, No 
+ JT45C ,2020, Miami Sales Office , 25 , 167.20 , 168.00 , Female ," $1,422.73 ",0, No 
+ JV12C ,2020, East Coast - All Locations , 26 , 160.30 , 197.00 , Male ," $3,433.08 ",1, No 
+ JV24K ,2020, Arkansas Plant , 40 , 189.20 , 232.00 , Male ," $11,576.45 ",1, No 
+ JV39G ,2020, East Coast - All Locations , 30 , 158.20 , 182.00 , Male ," $3,839.20 ",0, No 
+ JW74A ,2020, Arkansas Plant , 38 , 155.20 , 141.00 , Male ," $6,840.76 ",3, No 
+ JX32C ,2020, Miami Sales Office , 34 , 155.00 , 110.00 , Male ," $2,517.63 ",1, No 
+ JX4a ,2020, East Coast - All Locations , 30 , 178.90 , 210.00 , Male ," $2,305.08 ",0, No 
+ JX81P ,2020, California - All Locations , 37 , 173.40 , 288.00 , Female ," $42,009.22 ",1, No 
+ JX89S ,2020, Arkansas Plant , 38 , 162.50 , 181.00 , Male ," $9,964.77 ",0, No 
+ JY54S ,2020, Arkansas Plant , 42 , 165.60 , 181.00 , Male ," $5,860.75 ",1, No 
+ JY77E ,2020, Miami Sales Office , 27 , 171.00 , 214.00 , Male ," $1,291.51 ",0, No 
+ JY80R ,2020, California - All Locations , 24 , 191.10 , 269.00 , Female ," $1,802.51 ",0, No 
+ Jz18b ,2020, East Coast - All Locations , 40 , 157.70 , 112.00 , Male ," $2,193.35 ",0, No 
+ JZ28a ,2020, East Coast - All Locations , 44 , 169.10 , 261.00 , Male ," $18,226.46 ",2, No 
+ Jz2ga ,2020, East Coast - All Locations , 39 , 186.30 , 199.00 , Male ," $5,170.16 ",0, No 
+ Jz373 ,2020, East Coast - All Locations , 26 , 177.30 , 248.00 , Male ," $3,071.44 ",0, No 
+ Jz3DD ,2020, Arkansas Plant , 43 , 160.70 , 183.00 , Male ," $26,593.63 ",1, No 
+ JZ41K ,2020, East Coast - All Locations , 25 , 155.10 , 123.00 , Male , $959.01 ,0, No 
+ Jz442 ,2020, East Coast - All Locations , 38 , 162.30 , 179.00 , Male ," $7,474.40 ",2, No 
+ Jz50u ,2020, Arkansas Plant , 53 , 174.80 , 271.00 , Male ," $32,278.61 ",1, Yes 
+ JZ5s ,2020, Arkansas Plant , 39 , 155.90 , 210.00 , Male ," $7,787.79 ",1, No 
+ Jz5YX ,2020, Arkansas Plant , 40 , 172.60 , 234.00 , Male ," $24,811.01 ",2, No 
+ Jz9Nu ,2020, East Coast - All Locations , 26 , 156.80 , 125.00 , Female ," $2,274.51 ",2, No 
+ JzL0x ,2020, Arkansas Plant , 36 , 172.40 , 157.00 , Male ," $2,143.10 ",2, No 
+ JzrFY ,2020, Miami Sales Office , 27 , 153.60 , 136.00 , Male , $862.55 ,0, No 
+ JzwUW ,2020, East Coast - All Locations , 28 , 162.00 , 186.00 , Male ," $2,419.95 ",0, No 
+ K0k5u ,2020, Miami Sales Office , 41 , 164.60 , 168.00 , Female ," $5,153.90 ",2, No 
+ K0Lzh ,2020, Arkansas Plant , 42 , 180.90 , 229.00 , Male ," $14,846.58 ",2, Yes 
+ K0YJ6 ,2020, East Coast - All Locations , 23 , 192.00 , 273.00 , Male ," $13,155.66 ",2, No 
+ K0Zhe ,2020, Miami Sales Office , 29 , 183.20 , 261.00 , Male ," $22,575.82 ",0, Yes 
+ K22dm ,2020, East Coast - All Locations , 24 , 162.40 , 218.00 , Male ," $1,642.36 ",0, No 
+ K24k2 ,2020, East Coast - All Locations , 36 , 171.10 , 172.00 , Female ," $6,277.11 ",1, No 
+ K29A9 ,2020, Miami Sales Office , 27 , 166.00 , 193.00 , Female ," $1,695.58 ",0, No 
+ K2tTY ,2020, California - All Locations , 34 , 171.30 , 173.00 , Male ," $5,705.28 ",0, No 
+ K2u0U ,2020, California - All Locations , 33 , 164.20 , 169.00 , Female ," $3,625.66 ",1, No 
+ K2XQ9 ,2020, East Coast - All Locations , 26 , 158.60 , 96.00 , Female ," $1,373.10 ",1, No 
+ K35e5 ,2020, East Coast - All Locations , 26 , 156.10 , 192.00 , Male ," $2,332.65 ",0, No 
+ K3nvL ,2020, Arkansas Plant , 43 , 173.40 , 253.00 , Male ," $23,338.15 ",3, Yes 
+ K485S ,2020, Arkansas Plant , 39 , 170.30 , 207.00 , Male ," $9,010.65 ",0, No 
+ K4pPp ,2020, East Coast - All Locations , 32 , 152.90 , 146.00 , Female ," $3,311.69 ",1, No 
+ K6HW2 ,2020, East Coast - All Locations , 48 , 182.60 , 238.00 , Male ," $8,814.43 ",0, No 
+ K6q83 ,2020, East Coast - All Locations , 27 , 178.20 , 157.00 , Female ," $1,475.84 ",0, No 
+ K7f7Q ,2020, California - All Locations , 34 , 182.80 , 284.00 , Male ," $25,721.82 ",1, Yes 
+ K7Y0D ,2020, Arkansas Plant , 48 , 161.50 , 184.00 , Female ," $21,457.11 ",2, No 
+ K85eP ,2020, California - All Locations , 40 , 163.40 , 181.00 , Male ," $39,782.48 ",1, Yes 
+ K8rup ,2020, East Coast - All Locations , 44 , 158.90 , 231.00 , Male ," $9,443.05 ",1, No 
+ K9aJ4 ,2020, California - All Locations , 44 , 183.20 , 237.00 , Male ," $22,904.85 ",2, No 
+ K9gbd ,2020, Arkansas Plant , 39 , 171.60 , 209.00 , Male ," $4,763.64 ",1, No 
+ K9zPc ,2020, East Coast - All Locations , 27 , 178.90 , 142.00 , Female ," $21,968.42 ",1, No 
+ KaNHj ,2020, Miami Sales Office , 46 , 169.80 , 148.00 , Male ," $15,341.41 ",0, Yes 
+ KaR2c ,2020,, 39 , 181.60 , 217.00 , Male ," $8,490.70 ",1, Yes 
+ Kb8Hv ,2020, East Coast - All Locations , 29 , 162.30 , 150.00 , Male ," $2,172.36 ",2, No 
+ Kbccc ,2020, Miami Sales Office , 32 , 163.50 , 222.00 , Female ," $12,478.60 ",0, No 
+ KbkE7 ,2020, East Coast - All Locations , 29 , 152.70 , 103.00 , Male ," $10,848.63 ",1, No 
+ KbMXL ,2020, Miami Sales Office , 26 , 162.10 , 149.00 , Female ," $1,717.10 ",0, No 
+ KbSeT ,2020, California - All Locations , 24 , 171.30 , 182.00 , Male ," $20,975.36 ",2, No 
+ Kc2Su ,2020, East Coast - All Locations , 32 , 180.60 , 170.00 , Female ," $4,384.39 ",1, No 
+ Kc861 ,2020, East Coast - All Locations , 28 , 182.20 , 230.00 , Female ," $2,413.75 ",2, No 
+ Kc882 ,2020, Arkansas Plant , 38 , 172.50 , 158.00 , Female ," $4,273.30 ",0, No 
+ KcCsE ,2020, California - All Locations , 28 , 154.90 , 167.00 , Female ," $28,165.52 ",2, No 
+ KcEeh ,2020, East Coast - All Locations , 31 , 178.70 , 246.00 , Male ," $27,365.11 ",2, Yes 
+ KcHP3 ,2020, Arkansas Plant , 38 , 162.50 , 183.00 , Female ," $12,103.70 ",1, No 
+ KcK66 ,2020, Miami Sales Office , 28 , 171.40 , 193.00 , Female ," $1,024.06 ",0, No 
+ KcSP4 ,2020, East Coast - All Locations , 30 , 183.00 , 238.00 , Female ," $2,667.31 ",0, No 
+ KcYvZ ,2020, Miami Sales Office , 28 , 170.30 , 235.00 , Male ," $2,213.68 ",0, No 
+ Kd1Fg ,2020, Miami Sales Office , 40 , 167.40 , 237.00 , Male ," $8,076.67 ",1, No 
+ Kd41w ,2020, Arkansas Plant , 54 , 160.40 , 190.00 , Male ," $11,427.66 ",0, No 
+ Kd8Rq ,2020, East Coast - All Locations , 25 , 152.40 , 183.00 , Female ," $2,342.11 ",0, No 
+ Kd9sw ,2020, Arkansas Plant , 46 , 164.80 , 251.00 , Male ," $7,584.26 ",2, No 
+ KdRe4 ,2020, California - All Locations , 26 , 174.70 , 207.00 , Female ," $15,956.61 ",0, Yes 
+ Ke404 ,2020, East Coast - All Locations , 19 , 167.50 , 187.00 , Male ," $1,134.83 ",1, No 
+ Ke5h9 ,2020, Arkansas Plant , 42 , 176.40 , 179.00 , Male ," $13,068.89 ",2, Yes 
+ Kebxt ,2020, Miami Sales Office , 23 , 158.60 , 143.00 , Female ," $1,372.55 ",0, No 
+ Kek4V ,2020, California - All Locations , 36 , 172.20 , 144.00 , Female ," $3,965.33 ",1, No 
+ KerPL ,2020, Arkansas Plant , 44 , 155.30 , 193.00 , Male ," $11,540.04 ",1, No 
+ Ket2c ,2020, East Coast - All Locations , 28 , 172.60 , 212.00 , Female ," $3,857.37 ",1, No 
+ Kf4WD ,2020, East Coast - All Locations , 45 , 155.00 , 194.00 , Female ," $12,156.70 ",3, No 
+ KfuYh ,2020, California - All Locations , 32 , 170.40 , 210.00 , Female ," $14,163.46 ",2, Yes 
+ KfxsL ,2020, Arkansas Plant , 35 , 172.00 , 218.00 , Female ," $22,749.60 ",2, No 
+ Kg2TH ,2020, Miami Sales Office , 23 , 163.60 , 128.00 , Female ," $11,756.75 ",1, No 
+ Kg6B2 ,2020, Arkansas Plant , 38 , 166.10 , 207.00 , Female ," $23,848.28 ",2, Yes 
+ Kgf6j ,2020, East Coast - All Locations , 46 , 185.00 , 228.00 , Male ," $23,791.10 ",2, Yes 
+ KgH4L ,2020, East Coast - All Locations , 28 , 176.60 , 197.00 , Female ," $2,209.28 ",1, No 
+ Kgt15 ,2020, California - All Locations , 23 , 185.00 , 156.00 , Male ," $1,270.73 ",0, No 
+ Kh4mm ,2020, Arkansas Plant , 36 , 157.90 , 183.00 , Male ," $4,168.49 ",1, No 
+ KhzXh ,2020, California - All Locations , 30 , 167.20 , 126.00 , Male ," $1,844.03 ",0, No 
+ Kj2Qx ,2020, East Coast - All Locations , 47 , 166.10 , 157.00 , Female ," $7,990.83 ",1, No 
+ Kj7G1 ,2020, Arkansas Plant , 55 , 171.70 , 236.00 , Male ," $38,107.86 ",0, Yes 
+ Kj7wh ,2020, East Coast - All Locations , 25 , 157.10 , 213.00 , Male ," $1,772.59 ",0, No 
+ Kj871 ,2020, California - All Locations , 41 , 178.70 , 177.00 , Male ," $6,685.77 ",1, No 
+ KjKCj ,2020, Arkansas Plant , 34 , 176.10 , 160.00 , Male ," $9,514.13 ",0, Yes 
+ KjKhL ,2020, East Coast - All Locations , 53 , 173.90 , 203.00 , Male ," $10,012.05 ",0, No 
+ KjMy7 ,2020, East Coast - All Locations , 31 , 166.80 , 194.00 , Male ," $4,710.04 ",2, No 
+ KjT6U ,2020, Arkansas Plant , 39 , 167.90 , 178.00 , Male ," $3,364.18 ",1, No 
+ KjXXD ,2020, Arkansas Plant , 39 , 159.70 , 100.00 , Female ," $10,717.86 ",2, No 
+ KjYBj ,2020, Miami Sales Office , 22 , 167.40 , 197.00 , Male ," $1,138.83 ",0, No 
+ Kjz31 ,2020, East Coast - All Locations , 23 , 172.80 , 279.00 , Male ," $26,216.48 ",1, No 
+ Kkn7L ,2020, California - All Locations , 55 , 165.70 , 197.00 , Male ," $8,779.02 ",0, No 
+ Kkp6M ,2020, California - All Locations , 27 , 149.70 , 91.00 , Female ," $9,735.91 ",2, No 
+ KkP6y ,2020, Arkansas Plant , 40 , 162.50 , 187.00 , Male ," $5,084.98 ",1, No 
+ Kky4U ,2020, California - All Locations , 34 , 167.80 , 200.00 , Female ," $8,036.98 ",1, No 
+ KQ2E ,2020, East Coast - All Locations , 27 , 164.40 , 165.00 , Male ," $1,270.61 ",0, No 
+ KQ31Q ,2020, Arkansas Plant , 39 , 163.10 , 175.00 , Male ," $5,691.97 ",1, No 
+ KR65C ,2020, East Coast - All Locations , 27 , 159.90 , 214.00 , Female ," $3,326.38 ",1, No 
+ KS49Q ,2020, Arkansas Plant , 47 , 177.90 , 222.00 , Male ," $6,810.83 ",1, No 
+ KS57L ,2020, East Coast - All Locations , 41 , 184.70 , 280.00 , Female ," $11,108.08 ",2, No 
+ KS89P ,2020, Miami Sales Office , 51 , 165.80 , 149.00 , Female ," $6,261.95 ",0, No 
+ KT0T ,2020, East Coast - All Locations , 32 , 180.40 , 266.00 , Male ," $3,907.96 ",2, No 
+ KT11J ,2020, East Coast - All Locations , 30 , 175.60 , 269.00 , Female ," $6,278.62 ",2, No 
+ KT52D ,2020, Arkansas Plant , 41 , 161.70 , 187.00 , Male ," $8,526.29 ",1, No 
+ KU54J ,2020, East Coast - All Locations , 34 , 160.20 , 158.00 , Female ," $2,781.52 ",0, No 
+ KV15J ,2020, Miami Sales Office , 28 , 162.60 , 111.00 , Female ," $1,998.83 ",0, No 
+ KV94Y ,2020, California - All Locations , 31 , 178.50 , 213.00 , Male ," $13,709.60 ",1, No 
+ KX18P ,2020, East Coast - All Locations , 33 , 178.80 , 195.00 , Male ," $2,009.56 ",2, No 
+ KX56N ,2020, Miami Sales Office , 42 , 162.30 , 136.00 , Male ," $3,895.55 ",2, No 
+ KX77C ,2020, Arkansas Plant , 42 , 165.80 , 188.00 , Male ," $7,233.29 ",1, No 
+ KX85a ,2020, Miami Sales Office , 34 , 177.40 , 221.00 , Female ," $3,427.33 ",1, No 
+ KY19H ,2020, Arkansas Plant , 41 , 167.90 , 167.00 , Male ," $4,417.68 ",1, No 
+ KY22B ,2020, Miami Sales Office , 33 , 157.70 , 137.00 , Male ," $4,784.42 ",1, No 
+ KY60Q ,2020, Miami Sales Office , 24 , 178.10 , 238.00 , Female ," $1,138.87 ",0, No 
+ Kz2h2 ,2020, Arkansas Plant , 41 , 172.80 , 152.00 , Male ," $2,402.63 ",1, No 
+ Kzc8u ,2020, Arkansas Plant , 46 , 171.90 , 211.00 , Male ," $8,436.34 ",0, No 
+ KzfDt ,2020, East Coast - All Locations , 46 , 165.00 , 125.00 , Female ," $4,409.87 ",2, No 
+ KzK55 ,2020, Arkansas Plant , 41 , 172.30 , 165.00 , Male ," $5,955.48 ",2, No 
+ KzQDn ,2020, Arkansas Plant , 22 , 161.80 , 197.00 , Male , $674.33 ,0, No 
+ KzsTg ,2020, East Coast - All Locations , 38 , 178.00 , 194.00 , Male ," $9,711.93 ",1, Yes 
+ L08sX ,2020, Arkansas Plant , 50 , 153.10 , 103.00 , Female ," $6,168.51 ",0, No 
+ L0Bs7 ,2020, Arkansas Plant , 51 , 169.00 , 218.00 , Male ," $12,244.86 ",0, No 
+ L0YWt ,2020, East Coast - All Locations , 34 , 164.70 , 133.00 , Female ," $2,652.10 ",1, No 
+ L15Zf ,2020, East Coast - All Locations , 45 , 153.10 , 173.00 , Female ," $7,351.45 ",1, No 
+ L1edZ ,2020, East Coast - All Locations , 29 , 168.50 , 154.00 , Male ," $5,684.45 ",1, Yes 
+ L2E2K ,2020, East Coast - All Locations , 32 , 171.70 , 238.00 , Male ," $13,011.67 ",0, Yes 
+ L2EX9 ,2020, Arkansas Plant , 45 , 170.80 , 239.00 , Male ," $17,743.18 ",1, Yes 
+ L34tL ,2020, East Coast - All Locations , 28 , 162.10 , 182.00 , Female ," $3,130.62 ",1, No 
+ L427k ,2020, Miami Sales Office , 20 , 170.40 , 232.00 , Male ," $2,333.47 ",0, No 
+ L4umZ ,2020, East Coast - All Locations , 35 , 179.80 , 168.00 , Male ," $3,145.22 ",0, No 
+ L58WC ,2020, East Coast - All Locations , 27 , 167.10 , 170.00 , Female ," $10,412.05 ",1, No 
+ L5bE1 ,2020, East Coast - All Locations , 44 , 159.10 , 143.00 , Female ," $4,314.72 ",0, No 
+ L5mev ,2020, Arkansas Plant , 48 , 168.80 , 168.00 , Female ," $6,158.89 ",1, No 
+ L65n8 ,2020, Arkansas Plant , 42 , 183.90 , 218.00 , Female ," $7,337.20 ",1, No 
+ L67Q9 ,2020, Miami Sales Office , 25 , 193.00 , 227.00 , Female ," $1,948.58 ",2, No 
+ L7287 ,2020, East Coast - All Locations , 26 , 163.10 , 231.00 , Female ," $2,957.98 ",0, No 
+ L73Y2 ,2020, East Coast - All Locations , 32 , 164.30 , 231.00 , Male ," $3,462.45 ",1, No 
+ L7NWq ,2020, Arkansas Plant , 38 , 174.00 , 234.00 , Male ," $26,863.74 ",2, Yes 
+ L82tN ,2020, Arkansas Plant , 34 , 165.80 , 213.00 , Male ," $4,058.91 ",2, No 
+ L8jrD ,2020, East Coast - All Locations , 45 , 180.60 , 166.00 , Male ," $5,523.57 ",0, No 
+ L8YjZ ,2020, Arkansas Plant , 51 , 164.10 , 214.00 , Male ," $19,023.21 ",1, No 
+ La49B ,2020, Miami Sales Office , 29 , 182.30 , 240.00 , Female ," $29,906.71 ",1, Yes 
+ La9ek ,2020, California - All Locations , 41 , 168.70 , 218.00 , Male ," $7,318.21 ",0, No 
+ LaQuy ,2020, California - All Locations , 33 , 173.50 , 259.00 , Female ," $9,165.79 ",0, No 
+ Lb389 ,2020, East Coast - All Locations , 42 , 172.10 , 164.00 , Male ," $6,493.95 ",1, Yes 
+ Lb40k ,2020, California - All Locations , 33 , 163.20 , 145.00 , Male ," $2,245.26 ",0, No 
+ Lb7Ts ,2020, Arkansas Plant , 45 , 153.50 , 183.00 , Male ," $7,890.64 ",1, No 
+ LbAw3 ,2020, Miami Sales Office , 43 , 180.80 , 248.00 , Male ," $26,895.01 ",3, Yes 
+ LbrPu ,2020, Arkansas Plant , 26 , 158.90 , 102.00 , Female ," $1,897.41 ",2, No 
+ Lbtky ,2020, Arkansas Plant , 56 , 164.10 , 183.00 , Female ," $16,806.90 ",1, No 
+ LbY22 ,2020, East Coast - All Locations , 28 , 175.30 , 229.00 , Male ," $7,403.86 ",0, No 
+ Lcafc ,2020, Miami Sales Office , 25 , 178.40 , 240.00 , Male ," $23,121.16 ",0, Yes 
+ LcEh1 ,2020, Miami Sales Office , 29 , 164.40 , 166.00 , Female ," $2,656.54 ",2, No 
+ Lcm5D ,2020, Arkansas Plant , 38 , 158.30 , 131.00 , Female ," $6,731.13 ",0, No 
+ LcThg ,2020, Miami Sales Office , 26 , 177.60 , 235.00 , Male , $768.04 ,0, No 
+ LcYMA ,2020, Arkansas Plant , 42 , 169.40 , 186.00 , Female ," $4,849.84 ",0, No 
+ Lczg2 ,2020, Miami Sales Office , 38 , 161.30 , 227.00 , Female ," $11,592.24 ",1, No 
+ Ldf1W ,2020, California - All Locations , 43 , 176.50 , 199.00 , Male ," $4,830.78 ",1, No 
+ LdfVf ,2020, Miami Sales Office , 31 , 168.20 , 112.00 , Male ," $3,341.46 ",0, No 
+ Ldrxc ,2020, East Coast - All Locations , 31 , 176.90 , 230.00 , Male ," $4,444.02 ",0, No 
+ LdS8A ,2020, Miami Sales Office , 33 , 175.20 , 166.00 , Male ," $4,453.35 ",1, No 
+ LdZwY ,2020, East Coast - All Locations , 32 , 186.10 , 260.00 , Female ," $5,277.95 ",3, No 
+ Le3QF ,2020, East Coast - All Locations , 21 , 155.50 , 186.00 , Female ," $2,354.51 ",0, No 
+ Le5ED ,2020, East Coast - All Locations , 41 , 173.60 , 229.00 , Female ," $16,647.12 ",1, Yes 
+ LebYY ,2020, Miami Sales Office , 25 , 161.10 , 219.00 , Female ," $3,205.91 ",0, No 
+ Led08 ,2020, East Coast - All Locations , 33 , 165.40 , 197.00 , Male ," $4,594.42 ",2, No 
+ LejN8 ,2020, Miami Sales Office , 44 , 191.90 , 302.00 , Female ," $12,563.22 ",1, No 
+ LeQU6 ,2020, Arkansas Plant , 44 , 167.20 , 205.00 , Female ," $9,356.12 ",1, No 
+ LeTkt ,2020, Arkansas Plant , 26 , 181.40 , 166.00 , Male ," $12,393.25 ",2, Yes 
+ LeUS8 ,2020, Miami Sales Office , 31 , 168.70 , 151.00 , Male ," $1,711.61 ",0, No 
+ LfF3h ,2020, East Coast - All Locations , 34 , 185.50 , 250.00 , Male ," $11,255.53 ",1, No 
+ LfNgH ,2020, East Coast - All Locations , 28 , 162.10 , 188.00 , Male ," $2,945.80 ",2, No 
+ LfY98 ,2020, East Coast - All Locations , 26 , 175.40 , 134.00 , Female , $924.18 ,0, No 
+ LfYLe ,2020, Arkansas Plant , 25 , 165.70 , 202.00 , Male ," $2,852.32 ",3, No 
+ Lg247 ,2020, Arkansas Plant , 35 , 160.70 , 200.00 , Female ," $5,478.66 ",0, No 
+ Lg799 ,2020, Arkansas Plant , 42 , 161.50 , 147.00 , Male ," $6,338.99 ",1, No 
+ Lg892 ,2020, California - All Locations , 26 , 160.60 , 132.00 , Female ," $2,135.27 ",0, No 
+ Lg9c1 ,2020, Miami Sales Office , 31 , 171.70 , 191.00 , Male ," $7,435.22 ",1, Yes 
+ LgfNQ ,2020, East Coast - All Locations , 45 , 157.90 , 130.00 , Female ," $5,652.59 ",1, No 
+ LgLgx ,2020, Arkansas Plant , 46 , 172.50 , 217.00 , Female ," $10,919.09 ",1, No 
+ LgN4d ,2020, Arkansas Plant , 47 , 179.50 , 261.00 , Male ," $18,030.72 ",3, Yes 
+ LgsQd ,2020, East Coast - All Locations , 35 , 157.30 , 150.00 , Female ," $7,978.76 ",2, No 
+ Lgw73 ,2020, Arkansas Plant , 42 , 176.90 , 205.00 , Female ," $6,478.81 ",0, No 
+ LgYht ,2020, East Coast - All Locations , 27 , 174.50 , 170.00 , Female ," $7,494.76 ",2, No 
+ LgYyg ,2020, East Coast - All Locations , 34 , 178.20 , 190.00 , Male ," $14,234.91 ",1, Yes 
+ Lh0W6 ,2020, East Coast - All Locations , 30 , 170.40 , 230.00 , Male ," $2,388.45 ",0, No 
+ Lh24t ,2020, East Coast - All Locations , 28 , 167.10 , 145.00 , Male ," $1,745.63 ",0, No 
+ LhaP9 ,2020, East Coast - All Locations , 30 , 179.90 , 205.00 , Female ," $16,233.62 ",2, Yes 
+ LhDSE ,2020, Arkansas Plant , 35 , 174.60 , 249.00 , Female ," $13,497.26 ",0, No 
+ LhLe6 ,2020, Arkansas Plant , 32 , 179.30 , 172.00 , Male ," $2,641.27 ",5, No 
+ Lj05Q ,2020, East Coast - All Locations , 32 , 159.90 , 167.00 , Male ," $2,499.13 ",1, No 
+ Lj277 ,2020, Miami Sales Office , 23 , 178.40 , 148.00 , Female , $720.64 ,0, No 
+ Lj4gt ,2020, California - All Locations , 27 , 158.80 , 213.00 , Male ," $3,462.46 ",1, No 
+ Lj9sL ,2020, Arkansas Plant , 27 , 172.90 , 153.00 , Female , $898.24 ,0, No 
+ LjdVW ,2020, Arkansas Plant , 34 , 172.80 , 277.00 , Female ," $6,050.38 ",1, No 
+ LjRmG ,2020, East Coast - All Locations , 26 , 161.80 , 141.00 , Female ," $1,488.16 ",1, No 
+ Lk5wM ,2020, East Coast - All Locations , 23 , 186.60 , 214.00 , Female ," $1,301.71 ",0, No 
+ Lkj0x ,2020, East Coast - All Locations , 31 , 173.60 , 242.00 , Male ," $25,363.67 ",1, No 
+ LkkQA ,2020, East Coast - All Locations , 28 , 167.70 , 152.00 , Male ," $1,030.73 ",0, No 
+ LkPnM ,2020, Miami Sales Office , 51 , 168.80 , 266.00 , Female ," $20,750.19 ",1, No 
+ LP30H ,2020, Arkansas Plant , 28 , 162.50 , 105.00 , Male ," $1,464.15 ",2, No 
+ LP31T ,2020, Miami Sales Office , 35 , 157.20 , 163.00 , Male ," $19,638.08 ",2, No 
+ LP73Z ,2020, Miami Sales Office , 34 , 173.00 , 223.00 , Male ," $5,874.84 ",1, No 
+ LQ45N ,2020, Miami Sales Office , 22 , 164.50 , 227.00 , Male ," $1,723.74 ",0, No 
+ LR77U ,2020, East Coast - All Locations , 36 , 172.10 , 196.00 , Female ," $3,238.01 ",0, No 
+ LR86B ,2020, Arkansas Plant , 27 , 157.70 , 153.00 , Male ," $1,929.56 ",2, No 
+ LS29V ,2020, Miami Sales Office , 43 , 155.70 , 178.00 , Female ," $11,404.62 ",1, No 
+ LS61G ,2020, Arkansas Plant , 37 , 150.40 , 121.00 , Female ," $5,776.81 ",1, No 
+ LT17Y ,2020, Arkansas Plant , 42 , 152.60 , 197.00 , Female ," $11,344.79 ",1, No 
+ LU27D ,2020, California - All Locations , 27 , 159.60 , 228.00 , Male ," $2,543.34 ",0, No 
+ LV28s ,2020, Arkansas Plant , 46 , 171.20 , 158.00 , Male ," $22,021.40 ",2, Yes 
+ LW27V ,2020, East Coast - All Locations , 25 , 174.50 , 207.00 , Male ," $14,575.96 ",2, Yes 
+ LX10V ,2020, Arkansas Plant , 42 , 164.90 , 122.00 , Female ," $6,419.40 ",2, No 
+ LX53R ,2020, Miami Sales Office , 41 , 164.80 , 177.00 , Female ," $5,397.32 ",1, No 
+ LX78D ,2020, East Coast - All Locations , 42 , 164.10 , 192.00 , Male ," $9,761.87 ",2, No 
+ LY88Q ,2020, East Coast - All Locations , 51 , 165.30 , 158.00 , Female ," $10,450.26 ",0, No 
+ Lz5AT ,2020, Arkansas Plant , 29 , 163.50 , 153.00 , Female ," $2,915.51 ",2, No 
+ LZ65N ,2020, California - All Locations , 18 , 167.10 , 157.00 , Male ," $1,613.65 ",0, No 
+ Lz9Sv ,2020, Arkansas Plant , 41 , 191.10 , 266.00 , Male ," $10,856.78 ",2, Yes 
+ LzcsT ,2020, Arkansas Plant , 45 , 169.80 , 198.00 , Female ," $30,562.19 ",1, Yes 
+ LzxP7 ,2020, East Coast - All Locations , 28 , 181.40 , 244.00 , Male ," $2,299.72 ",0, No 
+ M19h6 ,2020, Miami Sales Office , 25 , 173.70 , 205.00 , Female ," $1,490.21 ",0, No 
+ M1VhY ,2020, East Coast - All Locations , 32 , 167.20 , 203.00 , Female ," $4,507.22 ",1, No 
+ M1y4b ,2020, California - All Locations , 29 , 170.50 , 164.00 , Female ," $7,528.80 ",1, No 
+ M1Yk3 ,2020, East Coast - All Locations , 24 , 165.50 , 136.00 , Male ," $2,064.33 ",1, No 
+ M25N0 ,2020, California - All Locations , 32 , 171.50 , 205.00 , Male ," $4,821.78 ",0, No 
+ M29vH ,2020, Arkansas Plant , 42 , 162.20 , 250.00 , Male ," $13,142.78 ",2, No 
+ M342L ,2020, California - All Locations , 41 , 169.60 , 208.00 , Female ," $30,698.92 ",1, No 
+ M3H1g ,2020, East Coast - All Locations , 18 , 168.30 , 220.00 , Male ," $2,166.20 ",0, No 
+ M4C39 ,2020, Miami Sales Office , 25 , 165.60 , 183.00 , Female ," $2,126.75 ",0, No 
+ M4KmQ ,2020, East Coast - All Locations , 32 , 180.60 , 202.00 , Male ," $5,852.71 ",0, Yes 
+ M4Nsx ,2020, Miami Sales Office , 41 , 163.40 , 224.00 , Female ," $7,948.93 ",1, No 
+ M5Cd3 ,2020, Arkansas Plant , 33 , 171.60 , 196.00 , Female ," $21,921.89 ",1, Yes 
+ M5HZ7 ,2020, Arkansas Plant , 39 , 172.50 , 255.00 , Male ," $8,445.37 ",1, No 
+ M6gBR ,2020, East Coast - All Locations , 27 , 164.30 , 172.00 , Female ," $1,643.14 ",2, No 
+ M6RYK ,2020, California - All Locations , 30 , 181.70 , 263.00 , Male ," $13,423.11 ",1, No 
+ M6VMK ,2020, Miami Sales Office , 42 , 160.80 , 227.00 , Female ," $13,367.62 ",0, No 
+ M6Y92 ,2020, East Coast - All Locations , 31 , 169.60 , 180.00 , Female ," $4,510.08 ",1, No 
+ M6YaS ,2020, East Coast - All Locations , 34 , 166.40 , 131.00 , Male ," $5,061.98 ",1, No 
+ M7h40 ,2020, Arkansas Plant , 37 , 170.10 , 184.00 , Male ," $17,271.03 ",0, No 
+ M7U8y ,2020, East Coast - All Locations , 23 , 143.40 , 199.00 , Female ," $2,451.35 ",1, No 
+ M7whk ,2020, California - All Locations , 25 , 165.70 , 158.00 , Male ," $2,278.33 ",1, No 
+ M81eA ,2020, California - All Locations , 28 , 162.60 , 162.00 , Female ," $2,887.65 ",1, No 
+ M932f ,2020, East Coast - All Locations , 45 , 164.10 , 217.00 , Female ," $12,330.91 ",0, No 
+ M935B ,2020, Arkansas Plant , 38 , 175.00 , 259.00 , Male ," $21,940.41 ",2, Yes 
+ M9N23 ,2020, Miami Sales Office , 30 , 161.70 , 230.00 , Male ," $5,215.53 ",1, No 
+ M9x82 ,2020, East Coast - All Locations , 38 , 176.40 , 200.00 , Female ," $23,705.76 ",1, No 
+ Ma83W ,2020, Arkansas Plant , 36 , 182.60 , 237.00 , Female ," $29,274.81 ",0, Yes 
+ Mans3 ,2020, California - All Locations , 26 , 173.50 , 246.00 , Female ," $12,093.46 ",0, Yes 
+ MaYB3 ,2020, Arkansas Plant , 35 , 167.80 , 167.00 , Female ," $2,534.36 ",1, No 
+ Mb2vH ,2020, East Coast - All Locations , 41 , 165.10 , 216.00 , Male ," $8,980.96 ",1, No 
+ Mb767 ,2020, California - All Locations , 26 , 182.00 , 220.00 , Male ," $23,786.03 ",1, No 
+ Mb92X ,2020, Miami Sales Office , 39 , 154.90 , 168.00 , Male ," $9,399.51 ",1, No 
+ MbeYY ,2020, East Coast - All Locations , 28 , 163.10 , 161.00 , Female ," $13,800.46 ",2, No 
+ Mbmg6 ,2020, Arkansas Plant , 35 , 183.80 , 276.00 , Female ," $10,638.03 ",2, Yes 
+ MbPt3 ,2020, Miami Sales Office , 47 , 159.70 , 147.00 , Female ," $7,042.16 ",1, No 
+ McDeM ,2020, California - All Locations , 25 , 155.90 , 116.00 , Female ," $9,637.53 ",1, No 
+ McLd2 ,2020, East Coast - All Locations , 45 , 155.20 , 228.00 , Male ," $8,119.89 ",0, No 
+ McLP4 ,2020, Miami Sales Office , 23 , 182.90 , 276.00 , Female ," $7,322.70 ",0, Yes 
+ Mcq6G ,2020, Arkansas Plant , 38 , 170.50 , 118.00 , Female ," $3,716.10 ",2, No 
+ McY7M ,2020, East Coast - All Locations , 28 , 154.10 , 158.00 , Female ," $2,033.85 ",0, No 
+ Md0x5 ,2020, East Coast - All Locations , 20 , 146.60 , 228.00 , Female ," $6,253.60 ",0, No 
+ Md1F6 ,2020, East Coast - All Locations , 27 , 182.70 , 278.00 , Male ," $21,056.85 ",2, Yes 
+ Md2WM ,2020, East Coast - All Locations , 32 , 166.10 , 209.00 , Male ," $3,653.21 ",2, No 
+ Mdb5A ,2020, California - All Locations , 25 , 174.60 , 168.00 , Male ," $12,823.69 ",1, No 
+ Mdekk ,2020, California - All Locations , 28 , 173.90 , 208.00 , Female ," $13,282.46 ",1, No 
+ MdkS3 ,2020, Arkansas Plant , 57 , 159.70 , 168.00 , Female ," $9,254.33 ",0, No 
+ MdTHX ,2020, Arkansas Plant , 48 , 157.70 , 175.00 , Male ," $8,744.60 ",3, No 
+ MdZYQ ,2020, California - All Locations , 33 , 184.80 , 299.00 , Female ," $6,461.20 ",2, No 
+ MeEQg ,2020, California - All Locations , 33 , 170.70 , 260.00 , Male ," $16,164.29 ",0, No 
+ MeTtZ ,2020, California - All Locations , 34 , 166.50 , 219.00 , Male ," $17,176.86 ",1, No 
+ MexGs ,2020, East Coast - All Locations , 23 , 163.00 , 161.00 , Male ," $1,381.91 ",0, No 
+ Mfm3a ,2020, Arkansas Plant , 33 , 162.20 , 214.00 , Male ," $17,284.98 ",1, Yes 
+ MfPEb ,2020, California - All Locations , 43 , 185.40 , 300.00 , Male ," $27,349.64 ",0, Yes 
+ MfuCh ,2020, California - All Locations , 28 , 167.40 , 198.00 , Female ," $2,238.26 ",0, No 
+ Mg4h9 ,2020, East Coast - All Locations , 31 , 151.40 , 142.00 , Male ," $1,733.87 ",1, No 
+ Mg4hd ,2020, East Coast - All Locations , 32 , 161.50 , 211.00 , Male ," $4,127.44 ",1, No 
+ Mg5d8 ,2020, California - All Locations , 25 , 164.70 , 218.00 , Female ," $14,553.51 ",0, No 
+ MgaB0 ,2020, Arkansas Plant , 40 , 181.80 , 261.00 , Female ," $65,764.08 ",1, Yes 
+ MgBWQ ,2020, Arkansas Plant , 44 , 170.10 , 253.00 , Male ," $41,716.34 ",1, Yes 
+ MgVr4 ,2020, Arkansas Plant , 47 , 177.60 , 191.00 , Male ," $13,963.22 ",1, No 
+ Mh42j ,2020, East Coast - All Locations , 23 , 160.60 , 134.00 , Male ," $1,121.48 ",0, No 
+ MhbjJ ,2020, Arkansas Plant , 44 , 164.40 , 187.00 , Male ," $7,535.96 ",1, No 
+ Mj27B ,2020, Miami Sales Office , 30 , 178.60 , 295.00 , Female ," $13,448.53 ",1, Yes 
+ Mj4Vx ,2020, Miami Sales Office , 25 , 174.40 , 222.00 , Male ," $1,247.57 ",1, No 
+ Mj9tz ,2020, California - All Locations , 25 , 165.70 , 224.00 , Male ," $9,185.28 ",2, No 
+ Mjg2V ,2020, Arkansas Plant , 46 , 185.20 , 224.00 , Male ," $4,831.16 ",2, No 
+ MjHEE ,2020, Miami Sales Office , 31 , 164.40 , 182.00 , Male ," $3,993.13 ",1, No 
+ MjkdD ,2020, Arkansas Plant , 48 , 168.40 , 222.00 , Male ," $6,797.75 ",0, No 
+ MjpcY ,2020, Arkansas Plant , 46 , 178.20 , 313.00 , Male ," $17,838.77 ",2, No 
+ Mk03q ,2020, East Coast - All Locations , 47 , 185.80 , 284.00 , Female ," $7,820.86 ",1, No 
+ Mk1ns ,2020, Miami Sales Office , 33 , 180.80 , 272.00 , Male ," $4,360.11 ",1, No 
+ Mk205 ,2020, California - All Locations , 27 , 169.70 , 140.00 , Male ," $2,711.79 ",1, No 
+ Mk6Xg ,2020, East Coast - All Locations , 22 , 151.10 , 112.00 , Female ," $1,123.78 ",0, No 
+ MkWMr ,2020, California - All Locations , 26 , 185.40 , 283.00 , Male ," $8,407.14 ",0, Yes 
+ MP79C ,2020, East Coast - All Locations , 30 , 156.80 , 184.00 , Male ," $2,909.64 ",0, No 
+ MP79T ,2020, Miami Sales Office , 30 , 173.50 , 198.00 , Male ," $14,049.89 ",1, Yes 
+ MQ13X ,2020, Arkansas Plant , 39 , 172.40 , 243.00 , Male ," $10,464.27 ",1, No 
+ MQ49L ,2020, Miami Sales Office , 30 , 162.70 , 192.00 , Male ," $3,902.55 ",0, No 
+ MR13N ,2020, Arkansas Plant , 40 , 163.60 , 136.00 , Male ," $5,639.00 ",1, No 
+ MR85R ,2020, Arkansas Plant , 39 , 158.20 , 147.00 , Male ," $4,608.24 ",1, No 
+ MS74W ,2020, Arkansas Plant , 35 , 164.80 , 187.00 , Male ," $3,513.39 ",0, No 
+ MS75R ,2020, Arkansas Plant , 40 , 178.30 , 194.00 , Male ," $3,161.78 ",2, No 
+ MU27S ,2020, Arkansas Plant , 40 , 164.90 , 163.00 , Male ," $3,597.24 ",2, No 
+ MU5C ,2020, Arkansas Plant , 48 , 161.50 , 159.00 , Male ," $8,289.82 ",2, No 
+ MU80U ,2020, Miami Sales Office , 31 , 167.60 , 156.00 , Male ," $3,299.75 ",2, No 
+ MV87N ,2020, Arkansas Plant , 36 , 160.10 , 228.00 , Male ," $6,860.53 ",4, No 
+ MX99G ,2020, East Coast - All Locations , 30 , 174.40 , 197.00 , Male , $848.37 ,0, No 
+ MY19H ,2020, East Coast - All Locations , 36 , 183.10 , 222.00 , Male ," $2,685.37 ",0, No 
+ MY27E ,2020, East Coast - All Locations , 25 , 177.10 , 211.00 , Male ," $2,972.96 ",2, No 
+ MY45a ,2020, East Coast - All Locations , 30 , 168.70 , 228.00 , Male ," $5,500.83 ",2, No 
+ MY84H ,2020, Arkansas Plant , 42 , 157.90 , 183.00 , Male ," $12,401.81 ",1, No 
+ MzcVT ,2020, California - All Locations , 24 , 179.40 , 170.00 , Female ," $1,449.39 ",0, No 
+ N022F ,2020, Miami Sales Office , 25 , 177.10 , 201.00 , Female ," $16,861.76 ",1, No 
+ N0R8k ,2020, Arkansas Plant , 39 , 158.80 , 200.00 , Male ," $8,399.40 ",1, No 
+ N0RWc ,2020, California - All Locations , 28 , 161.40 , 165.00 , Male ," $11,221.47 ",1, No 
+ N19m3 ,2020, Arkansas Plant , 40 , 171.30 , 186.00 , Male ," $13,804.91 ",2, Yes 
+ N1gPR ,2020, California - All Locations , 40 , 174.70 , 241.00 , Female ," $37,536.64 ",2, No 
+ N1JgC ,2020, Miami Sales Office , 25 , 157.40 , 174.00 , Female ," $1,515.61 ",0, No 
+ N1U7R ,2020, East Coast - All Locations , 32 , 180.00 , 375.00 , Male ," $15,544.39 ",2, No 
+ N230J ,2020, East Coast - All Locations , 24 , 157.50 , 161.00 , Female ," $1,616.61 ",0, No 
+ N25Y4 ,2020, Arkansas Plant , 35 , 166.10 , 132.00 , Male ," $1,626.16 ",1, No 
+ N2g9C ,2020, Arkansas Plant , 25 , 168.30 , 191.00 , Male ," $1,031.26 ",0, No 
+ N2pFQ ,2020, California - All Locations , 34 , 158.70 , 202.00 , Male ," $6,525.01 ",1, No 
+ N2qh9 ,2020, California - All Locations , 27 , 162.60 , 110.00 , Male ," $1,899.20 ",0, No 
+ N3UY3 ,2020, California - All Locations , 44 , 160.80 , 230.00 , Male ," $20,066.62 ",1, No 
+ N42Pa ,2020, East Coast - All Locations , 27 , 157.60 , 146.00 , Male ," $1,298.46 ",0, No 
+ N48eM ,2020, Arkansas Plant , 43 , 178.50 , 188.00 , Male ," $5,755.19 ",2, No 
+ N4RWn ,2020, East Coast - All Locations , 32 , 180.40 , 246.00 , Female ," $7,364.79 ",2, Yes 
+ N558t ,2020, Arkansas Plant , 43 , 184.10 , 226.00 , Male ," $32,360.10 ",1, Yes 
+ N5upd ,2020, East Coast - All Locations , 29 , 164.30 , 246.00 , Male ," $3,183.23 ",1, No 
+ N5Yr9 ,2020, East Coast - All Locations , 31 , 170.70 , 239.00 , Male ," $14,587.55 ",1, Yes 
+ N6kn0 ,2020, Arkansas Plant , 40 , 165.60 , 149.00 , Male ," $5,728.95 ",1, No 
+ N7WY8 ,2020, California - All Locations , 50 , 167.90 , 167.00 , Female ," $18,109.92 ",1, No 
+ N8A0g ,2020, Arkansas Plant , 47 , 193.30 , 244.00 , Male ," $24,607.87 ",1, Yes 
+ N8KXD ,2020, East Coast - All Locations , 24 , 188.50 , 175.00 , Male ," $5,014.42 ",2, Yes 
+ N8YAK ,2020, East Coast - All Locations , 45 , 189.20 , 241.00 , Female ," $9,840.27 ",0, No 
+ N92rE ,2020, East Coast - All Locations , 25 , 181.50 , 161.00 , Female ," $6,851.69 ",0, No 
+ Na5cc ,2020, Miami Sales Office , 35 , 164.60 , 171.00 , Male ," $8,691.20 ",2, Yes 
+ Na8b1 ,2020, Arkansas Plant , 38 , 180.40 , 241.00 , Male ," $10,824.63 ",0, Yes 
+ Na9Zn ,2020, Arkansas Plant , 37 , 156.40 , 151.00 , Male ," $6,885.62 ",0, No 
+ Nafcd ,2020, East Coast - All Locations , 33 , 166.60 , 124.00 , Female ," $2,441.79 ",0, No 
+ NavxS ,2020, East Coast - All Locations , 36 , 156.30 , 178.00 , Male ," $5,767.70 ",0, No 
+ Nb6E5 ,2020, Miami Sales Office , 40 , 181.80 , 177.00 , Male ," $3,491.98 ",1, No 
+ Nbbsf ,2020, East Coast - All Locations , 25 , 156.10 , 168.00 , Male ," $1,933.75 ",0, No 
+ NbeYs ,2020, Miami Sales Office , 26 , 166.40 , 163.00 , Male ," $2,038.34 ",2, No 
+ NbGf9 ,2020, East Coast - All Locations , 32 , 182.80 , 199.00 , Male ," $2,895.61 ",2, No 
+ NbUM6 ,2020, East Coast - All Locations , 32 , 175.20 , 204.00 , Male ," $24,145.70 ",0, Yes 
+ NbX9R ,2020, Arkansas Plant , 37 , 158.00 , 209.00 , Male ," $23,815.70 ",1, No 
+ Nc26T ,2020, East Coast - All Locations , 26 , 162.60 , 162.00 , Male ," $1,710.37 ",1, No 
+ Nc5LS ,2020, Arkansas Plant , 38 , 170.40 , 235.00 , Male ," $9,046.32 ",1, No 
+ Ncr2S ,2020, Arkansas Plant , 35 , 164.60 , 154.00 , Male ," $1,786.51 ",0, No 
+ NcrML ,2020, East Coast - All Locations , 41 , 176.30 , 136.00 , Male ," $19,384.53 ",2, Yes 
+ NcYpg ,2020, Arkansas Plant , 53 , 164.20 , 194.00 , Male ," $10,221.52 ",0, No 
+ Nd72G ,2020, East Coast - All Locations , 24 , 162.40 , 241.00 , Male ," $1,745.23 ",0, No 
+ NdqSh ,2020, Arkansas Plant , 48 , 181.50 , 225.00 , Male ," $13,864.11 ",1, No 
+ NdWGV ,2020, Arkansas Plant , 41 , 181.50 , 260.00 , Male ," $48,818.90 ",1, Yes 
+ NdYeA ,2020, Miami Sales Office , 21 , 163.60 , 230.00 , Male ," $1,768.07 ",0, No 
+ NdYQj ,2020, East Coast - All Locations , 33 , 163.20 , 154.00 , Male ," $2,220.58 ",1, No 
+ NdzQT ,2020, East Coast - All Locations , 26 , 166.80 , 127.00 , Female ," $1,443.60 ",1, No 
+ Ne2Wz ,2020, California - All Locations , 25 , 155.70 , 197.00 , Female ," $13,639.75 ",23, No 
+ Ne6Qu ,2020, East Coast - All Locations , 35 , 156.30 , 151.00 , Male ," $2,690.74 ",1, No 
+ NeA6F ,2020, East Coast - All Locations , 37 , 168.80 , 163.00 , Male ," $4,270.71 ",1, No 
+ NeN5r ,2020, Miami Sales Office , 39 , 167.20 , 215.00 , Male ," $9,886.65 ",1, No 
+ NepuP ,2020, East Coast - All Locations , 26 , 169.60 , 208.00 , Male ," $1,536.01 ",1, No 
+ NeRLf ,2020, East Coast - All Locations , 28 , 172.30 , 169.00 , Male , $874.26 ,0, No 
+ NeZem ,2020, East Coast - All Locations , 24 , 171.30 , 221.00 , Female ," $18,479.56 ",0, Yes 
+ Nf7rj ,2020, Arkansas Plant , 40 , 162.70 , 202.00 , Male ," $20,506.96 ",2, Yes 
+ NfaLc ,2020, East Coast - All Locations , 38 , 176.80 , 196.00 , Male ," $5,536.30 ",2, No 
+ NfD02 ,2020, East Coast - All Locations , 33 , 176.90 , 249.00 , Male ," $4,019.47 ",2, No 
+ Nfdtm ,2020, East Coast - All Locations , 41 , 168.10 , 190.00 , Male ," $4,974.43 ",1, No 
+ NfK4s ,2020, Arkansas Plant , 41 , 184.60 , 302.00 , Male ," $9,634.10 ",1, No 
+ NfMaJ ,2020, Arkansas Plant , 39 , 166.30 , 186.00 , Female ," $4,902.03 ",1, No 
+ Nfr1D ,2020, California - All Locations , 33 , 169.90 , 196.00 , Male ," $10,214.27 ",2, No 
+ NfZbn ,2020, East Coast - All Locations , 31 , 168.90 , 200.00 , Male ," $5,120.90 ",2, No 
+ Ng0cN ,2020, Arkansas Plant , 48 , 166.80 , 213.00 , Female ," $29,572.57 ",3, No 
+ Ng2YW ,2020, Arkansas Plant , 49 , 164.20 , 263.00 , Female ," $15,298.24 ",0, No 
+ Ngfsw ,2020, Miami Sales Office , 34 , 170.80 , 112.00 , Female ," $4,480.66 ",1, No 
+ NgpP1 ,2020, Arkansas Plant , 32 , 161.90 , 125.00 , Female ," $2,853.09 ",2, No 
+ NgRrk ,2020, Arkansas Plant , 40 , 158.50 , 117.00 , Male ," $17,754.87 ",2, No 
+ Ngt8G ,2020, California - All Locations , 31 , 180.10 , 162.00 , Male ," $14,084.20 ",2, No 
+ NguLH ,2020, Arkansas Plant , 43 , 160.30 , 194.00 , Male ," $6,549.89 ",0, No 
+ NgweC ,2020, California - All Locations , 28 , 161.10 , 164.00 , Female ," $13,303.24 ",1, No 
+ NgWpD ,2020, East Coast - All Locations , 34 , 181.30 , 292.00 , Male ," $4,007.95 ",0, No 
+ NhcCA ,2020, Miami Sales Office , 18 , 176.90 , 204.00 , Male , $815.84 ,0, No 
+ NhYFP ,2020, Arkansas Plant , 27 , 157.50 , 117.00 , Male , $562.45 ,0, No 
+ NhzEF ,2020, East Coast - All Locations , 39 , 167.70 , 160.00 , Male ," $8,607.14 ",1, Yes 
+ Nj5YY ,2020, Miami Sales Office , 43 , 158.20 , 143.00 , Male ," $4,138.89 ",2, No 
+ NjPL3 ,2020, East Coast - All Locations , 39 , 184.70 , 309.00 , Female ," $10,048.73 ",0, No 
+ Njq3M ,2020, East Coast - All Locations , 50 , 162.40 , 116.00 , Male ," $6,717.92 ",0, No 
+ Nk1ne ,2020, California - All Locations , 42 , 177.30 , 176.00 , Male ," $4,658.12 ",0, No 
+ NkaLp ,2020, Arkansas Plant , 39 , 178.10 , 222.00 , Male ," $29,801.79 ",2, Yes 
+ NkAQs ,2020, East Coast - All Locations , 31 , 182.60 , 202.00 , Female ," $11,325.46 ",2, No 
+ Nke9S ,2020, Arkansas Plant , 40 , 150.50 , 200.00 , Female ," $16,064.40 ",0, No 
+ NkEhY ,2020, East Coast - All Locations , 33 , 153.20 , 147.00 , Female ," $2,390.91 ",0, No 
+ NkEMY ,2020, East Coast - All Locations , 23 , 177.20 , 231.00 , Female ," $3,187.39 ",0, No 
+ NkpDV ,2020, East Coast - All Locations , 40 , 189.40 , 246.00 , Male ," $5,020.45 ",2, No 
+ NkUH4 ,2020, East Coast - All Locations , 25 , 165.60 , 226.00 , Female ," $3,187.74 ",1, No 
+ NQ50Y ,2020, East Coast - All Locations , 24 , 177.80 , 152.00 , Female , $802.38 ,0, No 
+ NR55T ,2020, California - All Locations , 30 , 170.80 , 195.00 , Female ," $30,512.51 ",3, No 
+ NR59J ,2020, East Coast - All Locations , 33 , 187.20 , 230.00 , Male ," $2,231.61 ",2, No 
+ NS31M ,2020, East Coast - All Locations , 31 , 159.50 , 158.00 , Male ," $3,875.04 ",1, No 
+ NS37s ,2020, East Coast - All Locations , 23 , 167.20 , 139.00 , Male , $983.74 ,0, No 
+ NS45Y ,2020, Arkansas Plant , 37 , 180.30 , 223.00 , Female ," $29,840.96 ",2, Yes 
+ NT2G ,2020, East Coast - All Locations , 40 , 157.40 , 125.00 , Female ," $4,590.32 ",2, No 
+ NT78s ,2020, East Coast - All Locations , 31 , 173.00 , 236.00 , Female ," $14,935.51 ",0, Yes 
+ NU54D ,2020, East Coast - All Locations , 26 , 161.30 , 190.00 , Male ," $3,458.68 ",0, No 
+ NU84C ,2020, East Coast - All Locations , 56 , 172.40 , 183.00 , Male ," $8,979.24 ",0, No 
+ NV75D ,2020, Miami Sales Office , 43 , 166.10 , 183.00 , Male ," $7,963.29 ",1, No 
+ NW7Y ,2020, East Coast - All Locations , 28 , 166.30 , 186.00 , Female ," $2,702.89 ",2, No 
+ NX13C ,2020, East Coast - All Locations , 29 , 168.40 , 159.00 , Male ," $1,818.00 ",0, No 
+ NX42H ,2020, East Coast - All Locations , 44 , 171.40 , 214.00 , Female ," $8,634.28 ",1, No 
+ NX62M ,2020, Miami Sales Office , 19 , 168.00 , 171.00 , Female , $906.03 ,0, No 
+ NY12L ,2020, Arkansas Plant , 55 , 179.70 , 195.00 , Female ," $10,955.85 ",1, No 
+ NY1C ,2020, East Coast - All Locations , 40 , 167.30 , 185.00 , Male ," $23,646.88 ",2, No 
+ NY63a ,2020, East Coast - All Locations , 25 , 176.70 , 254.00 , Female ," $6,667.47 ",0, Yes 
+ NY78R ,2020, Miami Sales Office , 35 , 181.10 , 188.00 , Female ," $3,008.89 ",1, No 
+ NY7H ,2020, Arkansas Plant , 24 , 177.70 , 199.00 , Male ," $4,733.11 ",1, Yes 
+ Nz0Yy ,2020, Arkansas Plant , 39 , 173.80 , 145.00 , Male ," $11,024.61 ",1, No 
+ Nz1wc ,2020, Arkansas Plant , 44 , 159.20 , 201.00 , Male ," $10,209.35 ",2, No 
+ NZ53Y ,2020, East Coast - All Locations , 37 , 180.70 , 192.00 , Female ," $6,387.36 ",1, No 
+ NZ59X ,2020, Arkansas Plant , 41 , 179.30 , 238.00 , Male ," $9,532.84 ",0, No 
+ Nz5aa ,2020, California - All Locations , 32 , 162.40 , 165.00 , Male ," $4,413.40 ",2, No 
+ NZ99E ,2020, East Coast - All Locations , 31 , 162.60 , 189.00 , Male ," $2,950.53 ",1, No 
+ NzcKh ,2020, East Coast - All Locations , 34 , 180.40 , 204.00 , Female ," $6,097.66 ",0, No 
+ NzD1X ,2020, Arkansas Plant , 23 , 158.10 , 141.00 , Female ," $1,579.47 ",0, No 
+ NzwtL ,2020, East Coast - All Locations , 40 , 151.90 , 95.00 , Female ," $5,846.00 ",1, No 
+ sP11U ,2020, Arkansas Plant , 35 , 170.60 , 205.00 , Male ," $6,057.41 ",2, No 
+ sP68A ,2020, Arkansas Plant , 29 , 168.60 , 180.00 , Female ," $2,841.80 ",0, No 
+ sP81D ,2020, East Coast - All Locations , 42 , 187.10 , 410.00 , Male ," $8,951.31 ",1, No 
+ sQ37R ,2020, California - All Locations , 27 , 179.20 , 198.00 , Male ," $19,420.50 ",1, No 
+ sQ38D ,2020, Arkansas Plant , 32 , 149.40 , 139.00 , Female ," $4,763.09 ",1, No 
+ sS27D ,2020, East Coast - All Locations , 26 , 162.70 , 142.00 , Male ," $1,106.83 ",0, No 
+ sS2M ,2020, Arkansas Plant , 53 , 171.30 , 189.00 , Male ," $11,858.99 ",2, Yes 
+ sS70G ,2020, Arkansas Plant , 49 , 165.60 , 167.00 , Male ," $6,774.83 ",1, No 
+ sS86W ,2020, Miami Sales Office , 46 , 173.10 , 207.00 , Male ," $10,560.42 ",1, No 
+ sT73s ,2020, East Coast - All Locations , 40 , 183.20 , 251.00 , Male ," $25,386.34 ",1, Yes 
+ sT83L ,2020, Miami Sales Office , 34 , 151.20 , 160.00 , Male ," $3,433.01 ",0, No 
+ sT99K ,2020, Arkansas Plant , 42 , 170.20 , 159.00 , Male ," $3,357.16 ",1, No 
+ sU71T ,2020, Arkansas Plant , 42 , 169.50 , 151.00 , Female ," $14,354.05 ",1, Yes 
+ sU94K ,2020, Arkansas Plant , 43 , 180.50 , 265.00 , Female ," $7,469.24 ",0, No 
+ sW43R ,2020, Miami Sales Office , 31 , 164.50 , 163.00 , Male ," $7,814.98 ",2, Yes 
+ sY15a ,2020, East Coast - All Locations , 24 , 158.90 , 111.00 , Male , $573.88 ,0, No 
+ sZ39P ,2020, Arkansas Plant , 44 , 147.60 , 146.00 , Female ," $6,914.54 ",1, No 
+ z4szn ,2020, East Coast - All Locations , 41 , 155.20 , 166.00 , Male ," $8,038.35 ",1, No 
+ z4YJ9 ,2020, East Coast - All Locations , 42 , 154.10 , 124.00 , Male ," $5,707.79 ",1, No 
+ z5AkT ,2020, Arkansas Plant , 35 , 168.00 , 143.00 , Female ," $2,568.32 ",1, No 
+ z5La4 ,2020, East Coast - All Locations , 31 , 183.30 , 237.00 , Male ," $3,212.11 ",1, No 
+ z5s0f ,2020, East Coast - All Locations , 32 , 179.60 , 169.00 , Male ," $3,073.42 ",1, No 
+ z5Ukz ,2020, Arkansas Plant , 44 , 158.30 , 208.00 , Female ," $9,363.96 ",1, No 
+ z5Z38 ,2020, East Coast - All Locations , 26 , 164.10 , 177.00 , Male ," $1,646.27 ",1, No 
+ z6bsY ,2020, California - All Locations , 44 , 167.20 , 210.00 , Female ," $12,754.16 ",1, No 
+ z6fYW ,2020, East Coast - All Locations , 40 , 183.30 , 251.00 , Male ," $4,450.36 ",1, No 
+ z6jDD ,2020, East Coast - All Locations , 31 , 186.10 , 247.00 , Female ," $4,981.57 ",5, No 
+ z6Krz ,2020, California - All Locations , 51 , 175.00 , 190.00 , Female ," $10,040.72 ",0, No 
+ z6rzD ,2020, Miami Sales Office , 25 , 171.30 , 195.00 , Male ," $1,101.99 ",0, No 
+ z80Xk ,2020, Arkansas Plant , 34 , 168.20 , 100.00 , Male ," $2,891.94 ",1, No 
+ z81gj ,2020, California - All Locations , 33 , 164.60 , 187.00 , Male ," $10,639.46 ",0, No 
+ z85TW ,2020, California - All Locations , 23 , 163.60 , 162.00 , Male ," $7,763.37 ",1, No 
+ z8ayX ,2020, Arkansas Plant , 55 , 190.10 , 218.00 , Female ," $15,158.79 ",2, Yes 
+ z8VRV ,2020, Arkansas Plant , 27 , 169.70 , 211.00 , Male ," $14,117.97 ",0, Yes 
+ z9H4f ,2020, California - All Locations , 39 , 170.90 , 179.00 , Male ," $4,481.74 ",2, No 
+ za7LB ,2020, Miami Sales Office , 34 , 171.80 , 200.00 , Male ," $9,859.24 ",1, Yes 
+ zae5S ,2020, Arkansas Plant , 38 , 183.10 , 182.00 , Male ," $14,727.66 ",1, Yes 
+ zaeW1 ,2020, Arkansas Plant , 33 , 160.80 , 123.00 , Female ," $27,052.91 ",0, Yes 
+ zb0gY ,2020, East Coast - All Locations , 37 , 157.10 , 164.00 , Male ," $8,044.60 ",1, No 
+ zb8kg ,2020, East Coast - All Locations , 27 , 166.70 , 229.00 , Male ," $2,811.24 ",1, No 
+ zbLy0 ,2020, East Coast - All Locations , 34 , 179.10 , 220.00 , Female ," $3,456.64 ",1, No 
+ zbS2j ,2020, Arkansas Plant , 36 , 172.50 , 214.00 , Female ," $6,852.33 ",1, No 
+ zcaRa ,2020, Miami Sales Office , 26 , 176.50 , 253.00 , Male ," $1,916.87 ",0, No 
+ zcF0F ,2020, Arkansas Plant , 36 , 161.60 , 189.00 , Female ," $8,469.33 ",2, No 
+ zcTU2 ,2020, California - All Locations , 49 , 180.60 , 177.00 , Male ," $5,963.34 ",1, No 
+ zd6Ma ,2020, California - All Locations , 30 , 160.60 , 140.00 , Female ," $3,905.16 ",1, No 
+ zdGPc ,2020, Arkansas Plant , 31 , 162.90 , 194.00 , Male ," $5,584.06 ",1, No 
+ zdKYK ,2020, East Coast - All Locations , 34 , 181.10 , 191.00 , Male ," $2,280.52 ",1, No 
+ zdLM8 ,2020, East Coast - All Locations , 33 , 161.70 , 143.00 , Female ," $2,616.05 ",0, No 
+ zdU4P ,2020, California - All Locations , 37 , 156.30 , 146.00 , Male ," $5,308.11 ",1, No 
+ zdWE2 ,2020, East Coast - All Locations , 25 , 174.50 , 236.00 , Male ," $2,157.32 ",0, No 
+ zdYHq ,2020, Arkansas Plant , 51 , 173.20 , 207.00 , Male ," $35,811.97 ",0, Yes 
+ ze1N9 ,2020, Miami Sales Office , 34 , 154.40 , 209.00 , Female ," $17,212.81 ",1, No 
+ ze2f0 ,2020, Arkansas Plant , 58 , 175.50 , 209.00 , Female ," $36,554.43 ",1, Yes 
+ zea37 ,2020, Miami Sales Office , 46 , 161.00 , 196.00 , Male ," $7,080.69 ",2, No 
+ zeG1p ,2020, East Coast - All Locations , 27 , 166.90 , 180.00 , Male ," $5,476.38 ",0, Yes 
+ zemb4 ,2020, Arkansas Plant , 44 , 155.50 , 154.00 , Male ," $6,879.16 ",1, No 
+ zeNds ,2020, California - All Locations , 24 , 174.80 , 161.00 , Male ," $1,279.05 ",0, No 
+ zesSU ,2020, East Coast - All Locations , 42 , 152.30 , 180.00 , Male ," $21,296.43 ",1, No 
+ zez3D ,2020, East Coast - All Locations , 33 , 164.50 , 184.00 , Male ," $3,710.68 ",2, No 
+ zf211 ,2020, California - All Locations , 40 , 177.20 , 234.00 , Male ," $7,291.29 ",2, No 
+ zf221 ,2020, East Coast - All Locations , 31 , 157.10 , 126.00 , Female ," $2,141.60 ",1, No 
+ zf859 ,2020, Arkansas Plant , 36 , 181.30 , 194.00 , Male ," $8,468.25 ",1, Yes 
+ zfcgU ,2020, Arkansas Plant , 22 , 175.30 , 241.00 , Male ," $27,130.58 ",0, Yes 
+ zfcrV ,2020, Miami Sales Office , 25 , 190.80 , 266.00 , Male ," $7,545.50 ",0, Yes 
+ zfE0B ,2020, East Coast - All Locations , 31 , 165.10 , 180.00 , Male ," $4,698.77 ",1, No 
+ zfh1y ,2020, East Coast - All Locations , 38 , 170.20 , 181.00 , Female ," $24,102.30 ",1, No 
+ zfkJC ,2020, East Coast - All Locations , 24 , 174.50 , 194.00 , Male ," $10,019.79 ",0, Yes 
+ zfm1R ,2020, Arkansas Plant , 42 , 168.20 , 140.00 , Female ," $4,178.40 ",2, No 
+ zfYq3 ,2020, Miami Sales Office , 25 , 172.90 , 148.00 , Female ," $1,596.46 ",1, No 
+ zg16Y ,2020, Arkansas Plant , 43 , 176.00 , 234.00 , Male ," $7,472.50 ",0, No 
+ zg4zp ,2020, East Coast - All Locations , 32 , 170.90 , 190.00 , Male ," $2,713.50 ",1, No 
+ zg65V ,2020, Arkansas Plant , 38 , 156.00 , 216.00 , Male ," $4,341.98 ",1, No 
+ zgb4y ,2020, Arkansas Plant , 36 , 160.90 , 214.00 , Female ," $12,688.84 ",2, No 
+ zggdE ,2020, Miami Sales Office , 24 , 181.90 , 217.00 , Male , $641.06 ,0, No 
+ zgj0G ,2020, Miami Sales Office , 40 , 161.10 , 158.00 , Female ," $5,270.95 ",1, No 
+ zgJ7T ,2020, California - All Locations , 33 , 183.50 , 238.00 , Male ," $3,343.83 ",0, No 
+ zgQSS ,2020, California - All Locations , 36 , 156.10 , 199.00 , Male ," $5,916.53 ",1, No 
+ zgV2z ,2020, Arkansas Plant , 35 , 163.20 , 246.00 , Female ," $7,958.98 ",0, No 
+ zgYkW ,2020, Arkansas Plant , 37 , 174.00 , 228.00 , Male ," $4,421.00 ",0, No 
+ zgZFQ ,2020, East Coast - All Locations , 30 , 157.40 , 121.00 , Female ," $2,997.96 ",2, No 
+ zhf0a ,2020, East Coast - All Locations , 38 , 180.70 , 245.00 , Female ," $9,510.41 ",2, No 
+ zhL1n ,2020, Arkansas Plant , 28 , 164.80 , 143.00 , Female ," $2,449.50 ",0, No 
+ zjE7G ,2020, Arkansas Plant , 40 , 166.80 , 139.00 , Male ," $7,302.41 ",0, No 
+ zjKGY ,2020, East Coast - All Locations , 28 , 183.60 , 222.00 , Male ," $8,797.40 ",1, Yes 
+ zjwPV ,2020, Miami Sales Office , 39 , 161.40 , 179.00 , Female ," $24,036.62 ",1, No 
+ zk23X ,2020, East Coast - All Locations , 28 , 186.80 , 265.00 , Male ," $1,226.82 ",0, No 
+ zkm9m ,2020, California - All Locations , 31 , 171.70 , 130.00 , Male ," $3,584.17 ",2, No 
+ zkNWJ ,2020, Arkansas Plant , 41 , 180.70 , 162.00 , Male ," $3,523.77 ",1, No 
+ zz2Qn ,2020, California - All Locations , 21 , 145.90 , 130.00 , Male ," $1,563.10 ",0, No 
+ zz5Dg ,2020, Arkansas Plant , 41 , 156.40 , 145.00 , Female ," $3,462.49 ",2, No 
+ zz8B9 ,2020, East Coast - All Locations , 27 , 155.30 , 118.00 , Male ," $1,756.85 ",2, No 
